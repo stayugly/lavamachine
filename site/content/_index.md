@@ -1,6 +1,6 @@
 ---
 title: Lavamachine
-subtitle1: Virtual reality
+subtitle1: Virtual reality!
 subtitle2: Films and Workshops
 image: /img/lavamachine-placeholder.jpg
 blurb:
