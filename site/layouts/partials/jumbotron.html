@@ -7,10 +7,17 @@
         </h1>
       </div>
       <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
-        </p>
+        {{ if .subtitle1 }}
+        <div class="mw7 relative bg-fix-primary mb3">
+          <p class="b f4 di lh-title mb3 white mw6 bg-primary">
+            {{.subtitle1}}
+          </p>
+        </div>
+        <div class="mw7 relative bg-fix-primary mb3">
+          <p class="b f4 di lh-title mb3 white mw6 bg-primary">
+            {{.subtitle2}}
+          </p>
+        </div>
         {{ end }}
       </div>
     </div>
