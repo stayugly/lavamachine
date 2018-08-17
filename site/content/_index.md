@@ -1,6 +1,7 @@
 ---
 title: Lavamachine
-subtitle: So much fun
+subtitle1: Virtual reality
+subtitle2: Films and Workshops
 image: /img/lavamachine-placeholder.jpg
 blurb:
   heading: Why Kaldi?
