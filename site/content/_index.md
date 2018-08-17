@@ -4,12 +4,9 @@ subtitle1: Virtual reality!
 subtitle2: Films and Workshops
 image: /img/lavamachine-placeholder.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Under Construction.
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are currently working hard to build 
 intro:
   heading: Site under construction.
   text: >-
