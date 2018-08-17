@@ -2,6 +2,7 @@
 <html lang="en">
   {{ partial "head" . }}
   <body class="sans-serif">
-    {{ block "main" . }}{{ end }}
+  {{ partial "nav" . }}
+  {{ block "main" . }}{{ end }}
   </body>
 </html>
