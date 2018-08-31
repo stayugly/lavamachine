@@ -88,3 +88,5 @@
 
 /* Lavamachine special styles */
 @import 'lavamachine/_lavamachine-nav.css';
+@import 'lavamachine/_lavamachine-font-face.css';
+@import 'lavamachine/_lavamachine-typography.css';
