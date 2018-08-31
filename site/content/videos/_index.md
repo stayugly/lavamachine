@@ -1,6 +1,6 @@
 ---
 title: "Videos"
-image: /img/about-jumbotron.jpg
+image: /img/Lavamachine_jumbotron_background.jpg
 values:
   - heading: "Change me"
     text: >
