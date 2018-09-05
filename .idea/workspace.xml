@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/partials/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/partials/footer.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +22,10 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="53" />
-          <entry key="html" value="56" />
+          <entry key="html" value="57" />
           <entry key="jpg" value="2" />
           <entry key="json" value="3" />
-          <entry key="md" value="12" />
+          <entry key="md" value="13" />
           <entry key="png" value="1" />
           <entry key="svg" value="2" />
           <entry key="toml" value="2" />
@@ -38,10 +35,10 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="53" />
-          <entry key="HTML" value="56" />
+          <entry key="HTML" value="57" />
           <entry key="Image" value="3" />
           <entry key="JSON" value="3" />
-          <entry key="Markdown" value="12" />
+          <entry key="Markdown" value="13" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SVG" value="2" />
           <entry key="YAML" value="1" />
@@ -50,14 +47,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1166" />
-          <entry key="html" value="1272" />
+          <entry key="html" value="1322" />
           <entry key="md" value="1631" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1166" />
-          <entry key="HTML" value="1272" />
+          <entry key="HTML" value="1322" />
           <entry key="Markdown" value="1631" />
         </counts>
       </usages-collector>
@@ -65,38 +62,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/layouts/partials/nav.html">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="266">
+              <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/imports/_variables.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="13" />
+        <entry file="file://$PROJECT_DIR$/site/content/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="437">
+                <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -142,7 +124,6 @@
         <option value="$PROJECT_DIR$/site/content/products/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/section/videos.html" />
         <option value="$PROJECT_DIR$/site/content/videos/_index.md" />
-        <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/media-block-reverse-embed.html" />
         <option value="$PROJECT_DIR$/site/content/portfolio/_index.md" />
@@ -156,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/nav.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
       </list>
     </option>
   </component>
@@ -203,13 +185,6 @@
               <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
@@ -278,7 +253,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536150476685" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536151304158" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -319,12 +294,12 @@
       <option name="presentableId" value="Default" />
       <updated>1535641353623</updated>
       <workItem from="1535641355410" duration="10993000" />
-      <workItem from="1536133678802" duration="15657000" />
+      <workItem from="1536133678802" duration="16485000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26650000" />
+    <option name="totallyTimeSpent" value="27478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -492,13 +467,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/imports/_images.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -569,16 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -689,13 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/imports/_variables.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -705,8 +656,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/imports/_variables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="91" selection-start-line="14" selection-start-column="91" selection-end-line="14" selection-end-column="91" />
         </state>
       </provider>
     </entry>
