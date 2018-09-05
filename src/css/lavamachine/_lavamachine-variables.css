@@ -1,6 +1,7 @@
 :root {
     /* Colors */
     --lavamachine-primary: rgb(227, 136, 135);
+    --primary: var(--lavamachine-primary);
 
     /* Miscelaneous */
     --border-radius: 0;
