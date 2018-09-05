@@ -1,7 +1,7 @@
 ---
 title: Our Coffee
 type: products
-image: /img/Lavamachine_jumbotron_background.jpg
+image: /img/Timemachine_Still_01.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
