@@ -2,11 +2,16 @@
 title: Lavamachine
 subtitle: VR Short Films + Workshops
 image: /img/Lavamachine_jumbotron_background.jpg
-blurb:
-  heading: Under Construction.
+welcomeBlurb:
+  heading: Welcome to Lavamachine
   text: >-
-    This site is currently under construction. Come see us again soon, or reach out 
-    by e-mail to mail@piersgoffart.com or mail@ericgiessmann.com.
+    Lavamachine is a collaboration between two animators, 
+    designers and storytellers. Through our 360°VR films the viewers get an 
+    incomparable immersive experience which 
+    remains in their head forever.
+imageAndImage:
+    imagelefturl: /img/Timemachine_Still_01.png
+    imagerighturl: /img/Me_VR_Greenscreen_AnimVR_5.jpg
 headlineBig:
   headline: Our Services
 textAndText:

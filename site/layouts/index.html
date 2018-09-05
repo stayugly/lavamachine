@@ -2,6 +2,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ partial "welcome-blurb" .Params.welcomeBlurb }}
+
+{{ partial "image-and-image" .Params.imageAndImage }}
+
 {{ partial "headline-big" .Params.headlineBig }}
 
 {{ partial "text-and-text" .Params.textAndText }}
