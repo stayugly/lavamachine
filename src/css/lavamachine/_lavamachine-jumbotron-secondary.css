@@ -1,0 +1,26 @@
+.lavamachine-jumbotron-secondary__headline {
+    color: var(--lavamachine-primary);
+}
+
+.lavamachine-jumbotron-secondary__container {
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+
+@media (--breakpoint-not-small) {
+    .lavamachine-jumbotron-secondary__container {
+        padding-top: 8rem;
+    }
+}
+
+@media (--breakpoint-medium) {
+    .lavamachine-jumbotron-secondary__container {
+        padding-top: 10rem;
+    }
+}
+
+@media (--breakpoint-large) {
+    .lavamachine-jumbotron-secondary__container {
+        padding-top: 22rem;
+    }
+}

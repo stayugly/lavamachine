@@ -1,6 +1,6 @@
 ---
 title: Lavamachine
-subtitle:
+subtitle: VR Short Films + Workshops
 image: /img/Lavamachine_jumbotron_background.jpg
 blurb:
   heading: Under Construction.
