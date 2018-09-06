@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" afterPath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
-      <change beforePath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
+      <change beforePath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
+      <change beforePath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,17 +70,37 @@
         <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jumbotron.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_lavamachine-jumbotron-secondary.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_lavamachine-variables.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jumbotron.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -122,7 +142,6 @@
         <option value="$PROJECT_DIR$/site/layouts/section/products.html" />
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html" />
-        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/welcome-blurb.html" />
         <option value="$PROJECT_DIR$/site/layouts/index.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/image-and-image.html" />
@@ -138,11 +157,12 @@
         <option value="$PROJECT_DIR$/site/content/about/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
-        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
       </list>
     </option>
   </component>
@@ -289,12 +309,12 @@
       <workItem from="1535641355410" duration="10993000" />
       <workItem from="1536133678802" duration="17082000" />
       <workItem from="1536222913759" duration="314000" />
-      <workItem from="1536223237516" duration="2870000" />
+      <workItem from="1536223237516" duration="3339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31259000" />
+    <option name="totallyTimeSpent" value="31728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -352,20 +372,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/imports/_variables.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -616,21 +622,37 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron.html">
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,7 @@
 .lavamachine-jumbotron-secondary__headline {
+    padding: 0.5rem;
     color: var(--lavamachine-primary);
+    background-color: var(--lavamachine-headline-background);
 }
 
 .lavamachine-jumbotron-secondary__container {
