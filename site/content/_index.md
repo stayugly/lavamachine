@@ -23,5 +23,6 @@ textAndText:
     textright: We offer workshops for groups of up to ten people. Participants learn to use Rift and different VR painting tools. The standard length is four hours.
     buttontext: Check Out Our Portfolio
     buttonlink: /portfolio
+    images_are_small: true
 ---
 

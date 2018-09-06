@@ -1,16 +1,16 @@
-<div class="bg-grey-1 pv4">
+<div class="bg-grey-1 pv4 lavamachine-text-and-text">
     <div class="ph3 mw7 center">
 
         <div class="flex-l mhn2-l">
             <div class="w-50-l ph2-l tc">
-                <img src="{{.imageleft}}" alt="" class="mb3 w5 w-auto-l">
+                <img src="{{.imageleft}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}">
                 <h2 class="f2 b lh-title mb2">{{.headingleft}}</h2>
 
                 <p class="mw-100">{{.textleft}}</p>
             </div>
 
             <div class="w-50-l ph2-l tc">
-                <img src="{{.imageright}}" alt="" class="mb3 w5 w-auto-l" >
+                <img src="{{.imageright}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}" >
                 <h2 class="f2 b lh-title mb2">{{.headingright}}</h2>
 
                 <p class="mw-100">{{.textright}}</p>

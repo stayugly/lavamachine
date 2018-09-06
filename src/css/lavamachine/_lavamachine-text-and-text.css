@@ -1,0 +1,5 @@
+.lavamachine-text-and-text__image {
+    &.image-small {
+         height: 200px;
+     }
+}
