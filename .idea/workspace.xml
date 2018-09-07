@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/site/content/_index.md" afterPath="$PROJECT_DIR$/site/content/_index.md" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/headline-big.html" afterPath="$PROJECT_DIR$/site/layouts/partials/headline-big.html" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" afterPath="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="$PROJECT_DIR$/src/css/main.css" />
-    </list>
+    <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +110,7 @@
         <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -339,7 +331,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536155671406" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../evolution-web" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
@@ -384,12 +376,12 @@
       <workItem from="1535641355410" duration="10993000" />
       <workItem from="1536133678802" duration="17082000" />
       <workItem from="1536222913759" duration="314000" />
-      <workItem from="1536223237516" duration="4798000" />
+      <workItem from="1536223237516" duration="5399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33187000" />
+    <option name="totallyTimeSpent" value="33788000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -744,7 +736,7 @@
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding />
         </state>
       </provider>
