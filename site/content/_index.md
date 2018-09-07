@@ -1,7 +1,7 @@
 ---
 title: Lavamachine
 subtitle: VR Short Films + Workshops
-image: /img/Lavamachine_jumbotron_background.jpg
+image: /img/Home-jumbotron-small.jpeg
 welcomeBlurb:
   heading: Welcome to Lavamachine
   text: >-
@@ -10,7 +10,7 @@ welcomeBlurb:
     incomparable immersive experience which 
     remains in their head forever.
 imageAndImage:
-    imagelefturl: /img/Timemachine_Still_01.png
+    imagelefturl: /img/Portfolio-jumbotron-small.jpeg
     imagerighturl: /img/Me_VR_Greenscreen_AnimVR_5.jpg
 headlineBig:
   headline: Our Services

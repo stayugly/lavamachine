@@ -2,74 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/lavamachine.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/content/about/_index.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/content/portfolio/_index.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/headline-big.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/image-and-image.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/media-block-reverse-embed.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/welcome-blurb.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/section/about.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/section/portfolio.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/font/Machine_Madness.otf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/font/Machine_Madness.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/CV-Picture-Eric-Giessmann_Director-2018B_smal.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_jumbotron_background.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_pencil_Logo_02.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_video_Logo_01.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Me_VR_Greenscreen_AnimVR_5.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Timemachine_Still_01.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/piers01.jpeg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-font-face.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-typography.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/About-us-jumbotron-small.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Home-jumbotron-small.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Portfolio-jumbotron-small.jpeg" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/site/content/_index.md" afterPath="$PROJECT_DIR$/site/content/_index.md" />
-      <change beforePath="$PROJECT_DIR$/site/content/products/_index.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/content/values/_index.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/index.html" afterPath="$PROJECT_DIR$/site/layouts/index.html" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/site/layouts/partials/footer.html" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" afterPath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/nav.html" afterPath="$PROJECT_DIR$/site/layouts/partials/nav.html" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/products.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/values.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-direct-sourcing.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-jumbotron.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-reinvest-profits.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-shade-grown.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-single-origin.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-sustainable-farming.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/blog-chemex.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/blog-flavor_wheel.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/blog-index.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/home-jumbotron.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-coffee-gear.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-coffee.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-meeting-space.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-tutorials.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/logo.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/og-image.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-full-width.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-jumbotron.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_variables.css" afterPath="$PROJECT_DIR$/src/css/imports/_variables.css" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="$PROJECT_DIR$/src/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/site/content/about/_index.md" afterPath="$PROJECT_DIR$/site/content/about/_index.md" />
+      <change beforePath="$PROJECT_DIR$/site/content/portfolio/_index.md" afterPath="$PROJECT_DIR$/site/content/portfolio/_index.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -132,22 +71,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_lavamachine-jumbotron.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="_index.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/site/content/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <first_editor relative-caret-position="288">
+                <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -155,82 +84,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_lavamachine-jumbotron-secondary.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="170" lean-forward="false" selection-start-line="29" selection-start-column="170" selection-end-line="29" selection-end-column="170" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="text-and-text.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_lavamachine-text-and-text.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="headline-big.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/layouts/partials/headline-big.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_lavamachine-headline-big.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1638">
-              <caret line="91" column="49" lean-forward="false" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_lavamachine-variables.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
-              <folding />
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/content/portfolio/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="342">
+                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -275,9 +137,7 @@
         <option value="$PROJECT_DIR$/site/content/videos/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/media-block-reverse-embed.html" />
-        <option value="$PROJECT_DIR$/site/content/portfolio/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/section/about.html" />
-        <option value="$PROJECT_DIR$/site/content/about/_index.md" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
@@ -291,6 +151,8 @@
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
+        <option value="$PROJECT_DIR$/site/content/about/_index.md" />
+        <option value="$PROJECT_DIR$/site/content/portfolio/_index.md" />
         <option value="$PROJECT_DIR$/site/content/_index.md" />
       </list>
     </option>
@@ -352,14 +214,21 @@
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="about" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="portfolio" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
@@ -367,6 +236,19 @@
               <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="section" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
@@ -409,12 +291,12 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/site/static/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/site/static/img" />
       <recent name="$PROJECT_DIR$/site/static/font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/static/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -446,12 +328,12 @@
       <workItem from="1536133678802" duration="17082000" />
       <workItem from="1536222913759" duration="314000" />
       <workItem from="1536223237516" duration="5399000" />
-      <workItem from="1536306975615" duration="23000" />
+      <workItem from="1536306975615" duration="760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33811000" />
+    <option name="totallyTimeSpent" value="34548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
@@ -509,12 +391,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/static/img/About_jumbotron.jpeg" />
-    <entry file="file://$PROJECT_DIR$/site/static/img/android-chrome-192x192.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/static/img/blog-chemex.jpg" />
     <entry file="file://$PROJECT_DIR$/site/static/img/blog-flavor_wheel.jpg" />
     <entry file="file://$PROJECT_DIR$/site/static/img/blog-index.jpg" />
@@ -656,11 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-image.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -672,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-image.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
@@ -687,10 +555,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="91" column="49" lean-forward="false" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
+        <state relative-caret-position="342">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -711,27 +587,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="651">
+          <caret line="91" column="49" lean-forward="false" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/about/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/portfolio/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="342">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/content/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <first_editor relative-caret-position="288">
+            <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />

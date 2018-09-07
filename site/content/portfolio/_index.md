@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-image: /img/Timemachine_Still_01.png
+image: /img/Portfolio-jumbotron-small.jpeg
 video_one:
     heading: "Atelier"
     text: >
