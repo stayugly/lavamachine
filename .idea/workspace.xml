@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/lavamachine.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/content/about/_index.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/content/portfolio/_index.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/headline-big.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/image-and-image.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/media-block-reverse-embed.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/partials/welcome-blurb.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/section/about.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/layouts/section/portfolio.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/font/Machine_Madness.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/font/Machine_Madness.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/CV-Picture-Eric-Giessmann_Director-2018B_smal.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_jumbotron_background.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_pencil_Logo_02.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_video_Logo_01.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Me_VR_Greenscreen_AnimVR_5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/Timemachine_Still_01.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/site/static/img/piers01.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-font-face.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-typography.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/site/content/_index.md" afterPath="$PROJECT_DIR$/site/content/_index.md" />
+      <change beforePath="$PROJECT_DIR$/site/content/products/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/content/values/_index.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/index.html" afterPath="$PROJECT_DIR$/site/layouts/index.html" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/footer.html" afterPath="$PROJECT_DIR$/site/layouts/partials/footer.html" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" afterPath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/nav.html" afterPath="$PROJECT_DIR$/site/layouts/partials/nav.html" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/section/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/section/products.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/section/values.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/about-direct-sourcing.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/about-jumbotron.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/about-reinvest-profits.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/about-shade-grown.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/about-single-origin.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/about-sustainable-farming.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/blog-chemex.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/blog-flavor_wheel.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/blog-index.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/home-jumbotron.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-coffee-gear.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-coffee.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-meeting-space.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-tutorials.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/logo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/og-image.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/products-full-width.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/site/static/img/products-jumbotron.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/css/imports/_variables.css" afterPath="$PROJECT_DIR$/src/css/imports/_variables.css" />
+      <change beforePath="$PROJECT_DIR$/src/css/main.css" afterPath="$PROJECT_DIR$/src/css/main.css" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1262172201">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="53" />
+          <entry key="html" value="57" />
+          <entry key="jpg" value="2" />
+          <entry key="json" value="3" />
+          <entry key="md" value="13" />
+          <entry key="png" value="1" />
+          <entry key="svg" value="2" />
+          <entry key="toml" value="2" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="53" />
+          <entry key="HTML" value="57" />
+          <entry key="Image" value="3" />
+          <entry key="JSON" value="3" />
+          <entry key="Markdown" value="13" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="SVG" value="2" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1166" />
+          <entry key="html" value="1322" />
+          <entry key="md" value="1631" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="1166" />
+          <entry key="HTML" value="1322" />
+          <entry key="Markdown" value="1631" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_lavamachine-jumbotron.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/content/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_lavamachine-jumbotron-secondary.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="170" lean-forward="false" selection-start-line="29" selection-start-column="170" selection-end-line="29" selection-end-column="170" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text-and-text.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_lavamachine-text-and-text.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="headline-big.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/headline-big.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_lavamachine-headline-big.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1638">
+              <caret line="91" column="49" lean-forward="false" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_lavamachine-variables.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>--font-fam</find>
+      <find>Nunito Sans</find>
+      <find>text-decoration</find>
+      <find>font-size</find>
+      <find>text-align</find>
+      <find>f2</find>
+      <find>border-rad</find>
+      <find>if</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/site/layouts/partials</dir>
+      <dir>$PROJECT_DIR$/src/css/imports</dir>
+      <dir>$PROJECT_DIR$/src/css</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_nav.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-font-face.css" />
+        <option value="$PROJECT_DIR$/src/css/imports/_variables.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-typography.css" />
+        <option value="$PROJECT_DIR$/site/layouts/section/products.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/welcome-blurb.html" />
+        <option value="$PROJECT_DIR$/site/layouts/index.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/image-and-image.html" />
+        <option value="$PROJECT_DIR$/site/content/products/_index.md" />
+        <option value="$PROJECT_DIR$/site/layouts/section/videos.html" />
+        <option value="$PROJECT_DIR$/site/content/videos/_index.md" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/media-block-reverse-embed.html" />
+        <option value="$PROJECT_DIR$/site/content/portfolio/_index.md" />
+        <option value="$PROJECT_DIR$/site/layouts/section/about.html" />
+        <option value="$PROJECT_DIR$/site/content/about/_index.md" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/nav.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
+        <option value="$PROJECT_DIR$/site/layouts/section/portfolio.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/headline-big.html" />
+        <option value="$PROJECT_DIR$/src/css/main.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
+        <option value="$PROJECT_DIR$/site/content/_index.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="section" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lavamachine" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536155671406" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/static/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/static/img" />
+      <recent name="$PROJECT_DIR$/site/static/font" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="" />
+      <created>1535641353623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535641353623</updated>
+      <workItem from="1535641355410" duration="10993000" />
+      <workItem from="1536133678802" duration="17082000" />
+      <workItem from="1536222913759" duration="314000" />
+      <workItem from="1536223237516" duration="5399000" />
+      <workItem from="1536306975615" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33811000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1010" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295063" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hybris Console [Experimental]" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/site/static/img/About_jumbotron.jpeg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/android-chrome-192x192.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/blog-chemex.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/blog-flavor_wheel.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/blog-index.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/home-jumbotron.jpg" />
+    <entry file="file://$PROJECT_DIR$/dist/cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="4616" column="66" lean-forward="false" selection-start-line="4616" selection-start-column="66" selection-end-line="4616" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/home-about-section.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/icon.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/icons-facebook.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/icons-instagram.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/icons-twitter.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/illustrations-coffee.svg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/illustrations-coffee-gear.svg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/illustrations-meeting-space.svg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/illustrations-tutorials.svg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/lavamachine-logo.png" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/icons-vimeo.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/lavamachine-placeholder.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/Lavamachine_jumbotron_background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/Lavamachine_pencil_Logo_02.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/Lavamachine_video_Logo_01.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/Me_VR_Greenscreen_AnimVR_5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/mstile-70x70.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/mstile-144x144.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/mstile-150x150.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/og-image.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/mstile-310x150.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/products-full-width.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/products-grid1.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/products-grid2.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/mstile-310x310.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/products-jumbotron.jpg" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/safari-pinned-tab.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/contact.html" />
+    <entry file="file://$PROJECT_DIR$/site/static/img/Timemachine_Still_01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/piers01.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-image.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="170" lean-forward="false" selection-start-line="29" selection-start-column="170" selection-end-line="29" selection-end-column="170" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="91" column="49" lean-forward="false" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/headline-big.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+.lavamachine-jumbotron__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+@media (--breakpoint-large) {
+    .lavamachine-jumbotron__headline {
+        font-size: 7rem;
+    }
+}

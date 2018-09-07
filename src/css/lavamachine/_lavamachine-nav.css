@@ -1,0 +1,14 @@
+.lavamachine-nav {
+
+    & a:hover {
+        color: var(--lavamachine-primary);
+    }
+
+    & a:focus {
+        box-shadow: none;
+    }
+}
+
+.lavamachine-nav__link:hover {
+    text-decoration: none;
+}

@@ -85,3 +85,13 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+/* Lavamachine special styles */
+@import "lavamachine/_lavamachine-variables.css";
+@import 'lavamachine/_lavamachine-nav.css';
+@import 'lavamachine/_lavamachine-font-face.css';
+@import 'lavamachine/_lavamachine-typography.css';
+@import 'lavamachine/_lavamachine-jumbotron.css';
+@import 'lavamachine/_lavamachine-jumbotron-secondary.css';
+@import 'lavamachine/_lavamachine-text-and-text.css';
+@import 'lavamachine/_lavamachine-headline-big.css';
