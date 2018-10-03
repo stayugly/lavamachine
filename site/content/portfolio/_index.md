@@ -2,7 +2,7 @@
 title: Portfolio
 image: /img/Portfolio-jumbotron-small.jpeg
 video_one:
-  headline: Time Machine2
+  headline: Time Machine
   text: >
     A little boy dives deep into solving of the Rubiks Cube until he  isn't
     aware of time and his surroundings anymore.  “Time Machine” is the first
