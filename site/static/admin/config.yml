@@ -74,3 +74,40 @@ collections: # A list of collections the CMS should be able to edit
         {label: Headline, name: headline, widget: string},
         {label: Text, name: text, widget: text},
         {label: Vimeo Video Number, name: vimeonummer, widget: string}]}
+  - file: "site/content/vr-live-painting/_index.md"
+    label: "VR Live Painting Page"
+    name: "vr-live-painting"
+    fields:
+    - {label: Title, name: title, widget: string}
+    - {label: Image, name: image, widget: image}
+    - {label: Welcome Text, name: welcomeBlurb, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Text, name: text, widget: text}]}
+    - {label: Video One, name: video_one, widget: object, fields: [
+        {label: Headline, name: headline, widget: string},
+        {label: Text, name: text, widget: text},
+        {label: Vimeo Video Number, name: vimeonummer, widget: string}]}
+    - {label: Video Two, name: video_two, widget: object, fields: [
+        {label: Headline, name: headline, widget: string},
+        {label: Text, name: text, widget: text},
+        {label: Vimeo Video Number, name: vimeonummer, widget: string}]}
+    - {label: Headline, name: headlineBig, widget: object, fields: [
+        {label: Headline, name: headline, widget: string}]}
+    - {label: Images Grid, name: imagesGrid, widget: object, fields: [
+        {label: Image One, name: image1, widget: object, fields: [
+          {label: Image, name: image, widget: image},
+          {label: Alt, name: alt, widget: string},
+          {label: Text, name: text, widget: string}]},
+        {label: Image Two, name: image2, widget: object, fields: [
+          {label: Image, name: image, widget: image},
+          {label: Alt, name: alt, widget: string},
+          {label: Text, name: text, widget: string}]},
+        {label: Image Three, name: image3, widget: object, fields: [
+          {label: Image, name: image, widget: image},
+          {label: Alt, name: alt, widget: string},
+          {label: Text, name: text, widget: string}]},
+        {label: Image Four, name: image4, widget: object, fields: [
+          {label: Image, name: image, widget: image},
+          {label: Alt, name: alt, widget: string},
+          {label: Text, name: text, widget: string}]}
+    ]}
