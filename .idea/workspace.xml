@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/site/layouts/partials/text-and-text-and-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_Icon_03-03.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/portfolio/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/content/portfolio/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/section/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +30,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="53" />
-          <entry key="html" value="59" />
+          <entry key="html" value="62" />
           <entry key="jpg" value="2" />
           <entry key="json" value="3" />
           <entry key="md" value="15" />
           <entry key="png" value="1" />
-          <entry key="svg" value="2" />
+          <entry key="svg" value="3" />
           <entry key="toml" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -41,28 +43,28 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="53" />
-          <entry key="HTML" value="59" />
+          <entry key="HTML" value="62" />
           <entry key="Image" value="3" />
           <entry key="JSON" value="3" />
           <entry key="Markdown" value="15" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="SVG" value="2" />
+          <entry key="SVG" value="3" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1166" />
-          <entry key="html" value="1349" />
-          <entry key="md" value="1666" />
+          <entry key="html" value="1423" />
+          <entry key="md" value="1733" />
           <entry key="yml" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1166" />
-          <entry key="HTML" value="1349" />
-          <entry key="Markdown" value="1666" />
+          <entry key="HTML" value="1423" />
+          <entry key="Markdown" value="1733" />
           <entry key="YAML" value="30" />
         </counts>
       </usages-collector>
@@ -70,15 +72,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/content/portfolio/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -92,22 +85,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="62" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text-and-text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/content/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+              <first_editor relative-caret-position="570">
+                <caret line="30" selection-start-line="30" selection-end-line="30" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-155">
-              <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -145,7 +165,6 @@
         <option value="$PROJECT_DIR$/site/layouts/section/products.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/welcome-blurb.html" />
-        <option value="$PROJECT_DIR$/site/layouts/index.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/image-and-image.html" />
         <option value="$PROJECT_DIR$/site/content/products/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/section/videos.html" />
@@ -163,13 +182,15 @@
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
-        <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
         <option value="$PROJECT_DIR$/site/content/about/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
         <option value="$PROJECT_DIR$/site/content/portfolio/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/section/portfolio.html" />
-        <option value="$PROJECT_DIR$/site/content/_index.md" />
         <option value="$PROJECT_DIR$/site/static/admin/config.yml" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
+        <option value="$PROJECT_DIR$/site/layouts/index.html" />
+        <option value="$PROJECT_DIR$/site/content/_index.md" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text-and-text.html" />
       </list>
     </option>
   </component>
@@ -222,13 +243,6 @@
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -251,6 +265,13 @@
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,7 +282,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536155671406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538574916077" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -271,12 +292,13 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/site/static/img" />
-      <recent name="$PROJECT_DIR$/site/static/font" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/site/static/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/static/img" />
+      <recent name="$PROJECT_DIR$/site/layouts/partials" />
+      <recent name="$PROJECT_DIR$/site/static/font" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -308,12 +330,12 @@
       <workItem from="1536306975615" duration="1344000" />
       <workItem from="1536308845043" duration="91000" />
       <workItem from="1536315934614" duration="18000" />
-      <workItem from="1538572541559" duration="996000" />
+      <workItem from="1538572541559" duration="2332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36237000" />
+    <option name="totallyTimeSpent" value="37573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="1078" width="1920" height="1037" extended-state="6" />
@@ -367,19 +389,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/cms.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="4616" column="66" selection-start-line="4616" selection-start-column="66" selection-end-line="4616" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/img/home-about-section.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/img/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/static/img/icon.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -470,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -539,6 +541,13 @@
     <entry file="file://$PROJECT_DIR$/site/static/admin/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -556,20 +565,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/img/Lavamachine_Icon_03-03.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/site/content/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <first_editor relative-caret-position="570">
+            <caret line="30" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text-and-text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+        <state relative-caret-position="418">
+          <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
         </state>
       </provider>
     </entry>

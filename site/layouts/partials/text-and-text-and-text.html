@@ -1,0 +1,33 @@
+<div class="bg-grey-1 pv4 lavamachine-text-and-text">
+    <div class="ph3 mw7 center">
+
+        <div class="flex-l mhn2-l">
+            <div class="w-50-l ph2-l tc">
+                <img src="{{.imageone}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}">
+                <h2 class="f3 b lh-title mb2">{{.headingone}}</h2>
+
+                <p class="mw-100">{{.textone}}</p>
+            </div>
+
+            <div class="w-50-l ph2-l tc">
+                <img src="{{.imagetwo}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}" >
+                <h2 class="f3 b lh-title mb2">{{.headingtwo}}</h2>
+
+                <p class="mw-100">{{.texttwo}}</p>
+            </div>
+
+            <div class="w-50-l ph2-l tc">
+                <img src="{{.imagethree}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}" >
+                <h2 class="f3 b lh-title mb2">{{.headingthree}}</h2>
+
+                <p class="mw-100">{{.textthree}}</p>
+            </div>
+        </div>
+
+        {{ if .buttontext }}
+        <div class="tc">
+            <a href="{{.buttonlink}}" class="btn">{{.buttontext}}</a>
+        </div>
+        {{ end }}
+    </div>
+</div>
