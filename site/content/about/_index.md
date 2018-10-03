@@ -15,11 +15,11 @@ textAndText:
   imageleft: /img/CV-Picture-Eric-Giessmann_Director-2018B_smal.jpg
   headingleft: Eric Giessmann
   subheadingleft: Director, Animator
-  textleft: Animation director for short films. 2015 he was heaped on with prizes with is graduation film Typewriter Head. Now his new short “Sand Wanderer” is already successfully in distribution.
+  textleft: Is an animation director for short films. In 2015 he was awarded many prizes for his graduation film "Typewriter Head". His new short “Sand Wanderer” is already successfully in distribution.
   imageright: /img/Piers_portrait.jpg
   headingright: Piers Goffart
   subheadingright: Art Director, Animator
-  textright: Is a freelance illustrator and animator with a passion for storytelling, comedy and character acting. In 2015 he won the POS Award for best Artwork. Since 2017 he shifted his craft more and more into virtual reality painting and animation.
+  textright: Is a freelance illustrator and animator with a passion for storytelling, comedy and character acting. In 2015 he won the POS Award for best Artwork. Since 2017 he shifted his craft more and more into VR painting and animation.
 ---
 
 

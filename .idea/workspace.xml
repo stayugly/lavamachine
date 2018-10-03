@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_Icon_01-01.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/static/img/Lavamachine_Icon_02-02.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site/static/img/Piers_portrait.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/content/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site/content/about/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/content/about/_index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +52,7 @@
         <counts>
           <entry key="css" value="1166" />
           <entry key="html" value="1441" />
-          <entry key="md" value="1844" />
+          <entry key="md" value="1878" />
           <entry key="yml" value="30" />
         </counts>
       </usages-collector>
@@ -65,7 +60,7 @@
         <counts>
           <entry key="CSS" value="1166" />
           <entry key="HTML" value="1441" />
-          <entry key="Markdown" value="1844" />
+          <entry key="Markdown" value="1878" />
           <entry key="YAML" value="30" />
         </counts>
       </usages-collector>
@@ -98,40 +93,10 @@
         <entry file="file://$PROJECT_DIR$/site/content/about/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <first_editor relative-caret-position="456">
+                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/content/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="589">
-                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/layouts/section/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -295,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538575771239" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538576737295" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -343,12 +308,12 @@
       <workItem from="1536306975615" duration="1344000" />
       <workItem from="1536308845043" duration="91000" />
       <workItem from="1536315934614" duration="18000" />
-      <workItem from="1538572541559" duration="3185000" />
+      <workItem from="1538572541559" duration="4014000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38426000" />
+    <option name="totallyTimeSpent" value="39255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="1078" width="1920" height="1037" extended-state="6" />
@@ -562,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/section/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -600,17 +558,24 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="589">
-            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/content/about/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <first_editor relative-caret-position="456">
+            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
