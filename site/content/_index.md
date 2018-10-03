@@ -15,10 +15,10 @@ imageAndImage:
 headlineBig:
   headline: Our Services
 textAndTextAndText:
-    imageone: /img/Lavamachine_video_Logo_01.svg
+    imageone: /img/Lavamachine_Icon_01-01.svg
     headingone: VR Films
     textone: You need a VR infographic or an animated short? Checkout our portfolio.
-    imagetwo: /img/Lavamachine_pencil_Logo_02.svg
+    imagetwo: /img/Lavamachine_Icon_02-02.svg
     headingtwo: VR Workshops
     texttwo: We offer workshops for groups of up to ten people. Participants learn to use Rift and different VR painting tools. The standard length is four hours.
     imagethree: /img/Lavamachine_Icon_03-03.svg
