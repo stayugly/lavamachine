@@ -1,6 +1,6 @@
 ---
 title: Lavamachine
-subtitle: VR Short Films + Workshops + Live Painting
+subtitle: VR Films + Workshops + Live Painting
 image: /img/Home-jumbotron-small.jpeg
 welcomeBlurb:
   heading: Welcome to Lavamachine
