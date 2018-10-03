@@ -5,14 +5,18 @@
             <div class="w-50-l ph2-l tc">
                 <img src="{{.imageleft}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}">
                 <h2 class="f2 b lh-title mb2">{{.headingleft}}</h2>
-
+                {{ if .subheadingleft }}
+                    <h3 class="f4 b lh-title mb2">{{.subheadingleft}}</h3>
+                {{ end }}
                 <p class="mw-100">{{.textleft}}</p>
             </div>
 
             <div class="w-50-l ph2-l tc">
                 <img src="{{.imageright}}" alt="" class="mb3 w5 w-auto-l lavamachine-text-and-text__image {{if eq .images_are_small true }} image-small {{ end}}" >
                 <h2 class="f2 b lh-title mb2">{{.headingright}}</h2>
-
+                {{ if .subheadingright }}
+                    <h3 class="f4 b lh-title mb2">{{.subheadingright}}</h3>
+                {{ end }}
                 <p class="mw-100">{{.textright}}</p>
             </div>
         </div>
