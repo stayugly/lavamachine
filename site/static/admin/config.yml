@@ -64,10 +64,13 @@ collections: # A list of collections the CMS should be able to edit
     - {label: Image, name: image, widget: image}
     - {label: Video One, name: video_one, widget: object, fields: [
         {label: Headline, name: headline, widget: string},
-        {label: Text, name: text, widget: text}]}
+        {label: Text, name: text, widget: text},
+        {label: Vimeo Video Number, name: vimeonummer, widget: string}]}
     - {label: Video Two, name: video_two, widget: object, fields: [
         {label: Headline, name: headline, widget: string},
-        {label: Text, name: text, widget: text}]}
+        {label: Text, name: text, widget: text},
+        {label: Vimeo Video Number, name: vimeonummer, widget: string}]}
     - {label: Video Three, name: video_three, widget: object, fields: [
         {label: Headline, name: headline, widget: string},
-        {label: Text, name: text, widget: text}]}
+        {label: Text, name: text, widget: text},
+        {label: Vimeo Video Number, name: vimeonummer, widget: string}]}
