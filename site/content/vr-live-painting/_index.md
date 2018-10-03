@@ -27,15 +27,15 @@ headlineBig:
 imagesGrid:
   image1:
     image: /img/Lavamachine_Icon_01-01.svg
-    text: text
+    text: Author Reading
   image2:
     image: /img/Lavamachine_Icon_02-02.svg
-    text: text
+    text: Concert
   image3:
     image: /img/Lavamachine_Icon_03-03.svg
-    text: text
+    text: Theatre
   image4:
     image: /img/Lavamachine_Icon_03-03.svg
-    text: text
+    text: Event/Festival
 ---
 
