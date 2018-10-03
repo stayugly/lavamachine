@@ -16,4 +16,13 @@ video_two:
       infographic with AnimVR in virtual reality about “Cochlear Implants”. He also 
       wants to remind people and filmmakers that subtitles are very welcome for the 
       70 million deaf people out there.
+video_three:
+    heading: "Time Machine"
+    text: >
+      A little boy dives deep into solving of the Rubiks Cube until he 
+      isn't aware of time and his surroundings anymore. 
+      “Time Machine” is the first short Film with more complex character
+       animation, backgrounds, music composition and sound design. 
+       The animation is completely produced in Virtual Realty 
+       (AnimVR, Quill).
 ---
