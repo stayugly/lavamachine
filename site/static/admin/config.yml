@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Home Page"
     name: "home"
     fields:
-    - {label: Title, name: title, widget: string} 
+    - {label: Title, name: title, widget: string}
     - {label: Subtitle, name: subtitle, widget: string}
     - {label: Image, name: image, widget: image}
     - {label: Welcome Text, name: welcomeBlurb, widget: object, fields: [
@@ -36,46 +36,38 @@ collections: # A list of collections the CMS should be able to edit
         {label: Button Text, name: buttontext, widget: string},
         {label: Button Link, name: buttonlink, widget: string},
         {label: Small Images, name: images_are_small, widget: string}]}
-  - file: "site/content/contact/_index.md"
-    label: "Contact Page"
-    name: "contact"
-    fields:
-    - {label: Title, name: title, widget: string}
-    - {label: Logo, name: logo, widget: image}
-    - {label: Body, name: body, widget: markdown}
-    - label: Contact Entries
-      name: contact_entries
-      widget: list
-      fields:
-      - label: Heading
-        name: heading
-        widget: string
-      - label: Text
-        name: text
-        widget: text
-  - file: "site/content/products/_index.md"
-    label: "Products Page"
-    name: "products"
+  - file: "site/content/about/_index.md"
+    label: "About Page"
+    name: "about"
     fields:
     - {label: Title, name: title, widget: string}
     - {label: Image, name: image, widget: image}
-    - {label: Heading, name: heading, widget: string}
-    - {label: Description, name: description, widget: string}
-    - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-    - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-    - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-    - {label: Full_image, name: full_image, widget: image}
-    - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-  - file: "site/content/values/_index.md"
-    label: "Values Page"
-    name: "values"
+    - {label: Welcome Text, name: welcomeBlurb, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Text, name: text, widget: text}]}
+    - {label: Headline, name: headlineBig, widget: object, fields: [
+        {label: Headline, name: headline, widget: string}]}
+    - {label: Images with Text, name: textAndText, widget: object, fields: [
+        {label: Image Left, name: imageleft, widget: image},
+        {label: Heading Left, name: headingleft, widget: string},
+        {label: Subheadline Left, name: subheadingleft, widget: string},
+        {label: Text Left, name: textleft, widget: text},
+        {label: Image Right, name: imageright, widget: image},
+        {label: Heading Right, name: headingright, widget: string},
+        {label: Subheadline Right, name: subheadingright, widget: string},
+        {label: Text Right, name: textright, widget: text}]}
+  - file: "site/content/portfolio/_index.md"
+    label: "Portfolio Page"
+    name: "portfolio"
     fields:
     - {label: Title, name: title, widget: string}
     - {label: Image, name: image, widget: image}
-    - label: Values
-      name: values
-      widget: list
-      fields:
-      - {label: Heading, name: heading, widget: string}
-      - {label: Text, name: text, widget: text}
-      - {label: Image, name: imageUrl, widget: image}
+    - {label: Video One, name: video_one, widget: object, fields: [
+        {label: Headline, name: headline, widget: string},
+        {label: Text, name: text, widget: text}]}
+    - {label: Video Two, name: video_two, widget: object, fields: [
+        {label: Headline, name: headline, widget: string},
+        {label: Text, name: text, widget: text}]}
+    - {label: Video Three, name: video_three, widget: object, fields: [
+        {label: Headline, name: headline, widget: string},
+        {label: Text, name: text, widget: text}]}
