@@ -24,16 +24,16 @@ headlineBig:
   headline: Possible Applications
 imagesGrid:
   image1:
-    image: /img/Lavamachine_Icon_01-01.svg
+    image: /img/application_icons_01-01.svg
     text: Author Reading
   image2:
-    image: /img/Lavamachine_Icon_02-02.svg
+    image: /img/application_icons_01-02.svg
     text: Concert
   image3:
-    image: /img/Lavamachine_Icon_03-03.svg
+    image: /img/application_icons_01-03.svg
     text: Theatre
   image4:
-    image: /img/Lavamachine_Icon_03-03.svg
+    image: /img/application_icons_01-04.svg
     text: Event/Festival
 ---
 
