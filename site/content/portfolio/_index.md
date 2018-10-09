@@ -12,13 +12,13 @@ video_one:
   vimeonummer: 290033474
 video_two:
   headline: Atelier
-  text: >
+  text: >-
     Made with AnimVr in Virtual Reality. Fun to do. I used a spherical
     photograph of  my room as background and modeled everything onto it. I was
     scared a couple of times  because I saw myself taking a photo behind
     me....in VR everything is a bit confusing ... I had to project it onto a
     sphere because of the file size limit of Sketchfab, but still interesting
-    piece even without stereoscopic. vimeonummer:
+    piece even without stereoscopic. 
 video_three:
   headline: A Cochlear Implant - Infographic
   text: >-
