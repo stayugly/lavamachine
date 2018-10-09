@@ -5,22 +5,20 @@ welcomeBlurb:
   heading: Refresh your Audience
   text: "We paint live on a big screen for events like author \nreadings, concerts, theatres and festivals. \x03VR Live painting will massivly intensify your main act in perfect symbiose. Give your audience a refreshing \nand unforgettable experience."
 video_one:
-  headline: Discworld
+  headline: Author Reading – “Discworld”
   text: >
-    Morbi nulla eros, tincidunt in blandit et, hendrerit sed velit. Nunc in
-    nulla elit. Integer efficitur eget lorem ut congue. Etiam nulla libero,
-    placerat quis mauris vitae, efficitur eleifend risus. Mauris iaculis nec
-    libero vel placerat. Suspendisse venenatis turpis sit amet elementum dictum.
-    Quisque sagittis arcu eget ultrices dignissim.
+    My interpretation of the Rincewind character from the famous Discworld
+    series. The painting is made during the reading of a book scene in virtual
+    reality and imminently projected on the wall in the background. What you
+    will see is what I can see in the headset in real-time!
   vimeonummer: '293225658'
 video_two:
-  headline: Title Two
+  headline: Life Painting – “Fire Golem” (Time Lapse)
   text: >
-    Morbi nulla eros, tincidunt in blandit et, hendrerit sed velit. Nunc in
-    nulla elit. Integer efficitur eget lorem ut congue. Etiam nulla libero,
-    placerat quis mauris vitae, efficitur eleifend risus. Mauris iaculis nec
-    libero vel placerat. Suspendisse venenatis turpis sit amet elementum dictum.
-    Quisque sagittis arcu eget ultrices dignissim.
+    It’s such interesting and satisfying just to follow the painting strokes in
+    three-dimensional space becoming the desired image. More and more the
+    picture is revealed to the audience. More and more the artist takes us into
+    his vision of the scene.
   vimeonummer: '131229751'
 headlineBig:
   headline: Possible Applications
