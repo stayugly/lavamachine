@@ -24,18 +24,26 @@ collections: # A list of collections the CMS should be able to edit
     - {label: Headline, name: headlineBig, widget: object, fields: [
         {label: Headline, name: headline, widget: string}]}
     - {label: Icons with Text, name: textAndTextAndText, widget: object, fields: [
-        {label: Image One, name: imageone, widget: image},
-        {label: Heading One, name: headingone, widget: string},
-        {label: Text One, name: textone, widget: text},
-        {label: Image Two, name: imagetwo, widget: image},
-        {label: Heading Two, name: headingtwo, widget: string},
-        {label: Text Two, name: texttwo, widget: text},
-        {label: Image Three, name: imagethree, widget: image},
-        {label: Heading Three, name: headingthree, widget: string},
-        {label: Text Three, name: textthree, widget: text},
-        {label: Button Text, name: buttontext, widget: string},
-        {label: Button Link, name: buttonlink, widget: string},
-        {label: Small Images, name: images_are_small, widget: string}]}
+        {label: Item One, name: item1, widget: object, fields: [
+          {label: Heading, name: heading, widget: string},
+          {label: Text, name: text, widget: string},
+          {label: Image, name: image, widget: image},
+          {label: Button Text, name: buttontext, widget: string},
+          {label: Button Url, name: buttonUrl, widget: string}]},
+        {label: Item Two, name: item2, widget: object, fields: [
+          {label: Heading, name: heading, widget: string},
+          {label: Text, name: text, widget: string},
+          {label: Image, name: image, widget: image},
+          {label: Button Text, name: buttontext, widget: string},
+          {label: Button Url, name: buttonUrl, widget: string}]},
+        {label: Item Three, name: item3, widget: object, fields: [
+          {label: Heading, name: heading, widget: string},
+          {label: Text, name: text, widget: string},
+          {label: Image, name: image, widget: image},
+          {label: Button Text, name: buttontext, widget: string},
+          {label: Button Url, name: buttonUrl, widget: string}]},
+        {label: Small Images, name: images_are_small, widget: string}
+    ]}        
   - file: "site/content/about/_index.md"
     label: "About Page"
     name: "about"

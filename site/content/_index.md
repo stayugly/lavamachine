@@ -14,21 +14,24 @@ imageAndImage:
 headlineBig:
   headline: Our Services
 textAndTextAndText:
-  buttonlink: /portfolio
-  buttontext: Check Out Our Portfolio
-  headingone: VR Films
-  headingthree: VR Live Painting
-  headingtwo: VR Workshops
-  imageone: /img/Lavamachine_Icon_01-01.svg
+  item1:
+    heading: VR Films
+    image: /img/Lavamachine_Icon_01-01.svg
+    text: You need a VR infographic or an animated short? Checkout our portfolio.
+    buttontext: Visit Portfolio
+    buttonurl: /portfolio
+  item2:
+    heading: VR Workshops
+    image: /img/Lavamachine_Icon_02-02.svg
+    text: We offer workshops for groups of up to ten people. Participants learn to use Rift and different VR painting tools. The standard length is four hours.
+    buttontext: 
+    buttonurl: 
+  item3:
+    heading:  VR Live Painting
+    image: /img/Lavamachine_Icon_03-03.svg
+    text:  We paint live on a big screen for events like author readings, concerts and festivals. Give your audience a refreshing and unforgettable experience.
+    buttontext: Visit Live Painting
+    buttonurl: /vr-live-painting
   images_are_small: true
-  imagethree: /img/Lavamachine_Icon_03-03.svg
-  imagetwo: /img/Lavamachine_Icon_02-02.svg
-  textone: You need a VR infographic or an animated short? Checkout our portfolio.
-  textthree: >-
-    We paint live on a big screen for events like author readings, concerts and
-    festivals. Give your audience a refreshing and unforgettable experience.
-  texttwo: >-
-    We offer workshops for groups of up to ten people. Participants learn to use
-    Rift and different VR painting tools. The standard length is four hours.
 ---
 
