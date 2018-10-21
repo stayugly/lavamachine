@@ -13,13 +13,13 @@ video_one:
     will see is what I can see in the headset in real-time!
   vimeonummer: '293225658'
 video_two:
-  headline: Life Painting – “Fire Golem” (Time Lapse)
-  text: >
-    It’s such interesting and satisfying just to follow the painting strokes in
-    three-dimensional space becoming the desired image. More and more the
-    picture is revealed to the audience. More and more the artist takes us into
-    his vision of the scene.
-  vimeonummer: '294218014'
+  headline: Life Painting – "Life of Pi" Interpretation
+  text: |
+    Interpretion of the two main characters of the classic Novel Life of Pi.
+    I'm not sure if they were ever surounded by rocks and a whale. 
+    I thought it would give the scene more drama an makes it more interesting. 
+    This painting is completely made in Google Tilt Brush.
+  vimeonummer: '296202509'
 headlineBig:
   headline: Possible Applications
 imagesGrid:
