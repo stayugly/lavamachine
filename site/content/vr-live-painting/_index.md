@@ -14,10 +14,12 @@ video_one:
   vimeonummer: '293225658'
 video_two:
   headline: Life Painting – "Life of Pi" Interpretation
-  text: |
+  text: >
     Interpretion of the two main characters of the classic Novel Life of Pi.
-    I'm not sure if they were ever surounded by rocks and a whale. 
-    I thought it would give the scene more drama an makes it more interesting. 
+
+    They are surounded by rocks and a whale which is not particular a certain
+    part of a the novel,but it gives the scene more drama.. 
+
     This painting is completely made in Google Tilt Brush.
   vimeonummer: '296202509'
 headlineBig:
