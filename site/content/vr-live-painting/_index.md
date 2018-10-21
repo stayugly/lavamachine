@@ -1,5 +1,5 @@
 ---
-title: VR-Painting
+title: VR Live
 image: /img/Me_VR_Greenscreen_AnimVR_5.jpg
 welcomeBlurb:
   heading: Refresh your Audience
