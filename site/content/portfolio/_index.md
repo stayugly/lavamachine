@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 image: /img/Portfolio-jumbotron-small.jpeg
-videolist:
+videoList:
   video1:
     headline: Time Machine
     text: >
