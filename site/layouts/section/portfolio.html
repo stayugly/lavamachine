@@ -2,6 +2,8 @@
 
   {{ partial "jumbotron-secondary" (dict "imageUrl" .Params.image "title" .Title) }}
 
+  {{ partial "video-list-special" .Params.videoSpecial }}
+
   {{ partial "video-block-list" .Params.videoList }}
 
   {{ partial "footer" . }}

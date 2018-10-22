@@ -3,6 +3,7 @@ backend:
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
+display_url: https://lavamachine.com
 
 collections: # A list of collections the CMS should be able to edit
 - name: "pages"
@@ -70,66 +71,60 @@ collections: # A list of collections the CMS should be able to edit
     fields:
     - {label: Title, name: title, widget: string}
     - {label: Image, name: image, widget: image}
+    - {label: Special Video, name: videoSpecial, widget: object, fields: [
+        {label: Headline, name: headline, widget: string},
+        {label: Text, name: text, widget: text},
+        {label: Display video on the right, name: reverse, widget: boolean}]}
     - {label: Video List, name: videoList, widget: object, fields: [
         {label: Video One, name: video1, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Two, name: video2, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Three, name: video3, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Four, name: video4, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Five, name: video5, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Six, name: video6, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Seven, name: video7, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Eight, name: video8, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Nine, name: video9, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Ten, name: video10, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]}      
         ]}
   - file: "site/content/vr-live-painting/_index.md"
@@ -146,61 +141,51 @@ collections: # A list of collections the CMS should be able to edit
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Two, name: video2, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Three, name: video3, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Four, name: video4, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Five, name: video5, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Six, name: video6, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Seven, name: video7, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Eight, name: video8, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Nine, name: video9, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]},
         {label: Video Ten, name: video10, widget: object, fields: [
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Embed, name: embed, widget: markdown},
           {label: Display video on the right, name: reverse, widget: boolean}]}      
         ]}
     - {label: Headline, name: headlineBig, widget: object, fields: [
