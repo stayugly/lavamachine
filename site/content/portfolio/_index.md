@@ -33,5 +33,7 @@ videoList:
       Implants”.  He also  wants to remind people and filmmakers that subtitles
       are very welcome for the  70 million deaf people out there.
     vimeonummer: '273708263'
+  video4:
+    embed: <div>foobar</div>
 ---
 
