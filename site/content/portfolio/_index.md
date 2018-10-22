@@ -1,31 +1,55 @@
 ---
 title: Portfolio
 image: /img/Portfolio-jumbotron-small.jpeg
-video_one:
-  headline: Time Machine
-  text: >
-    A little boy dives deep into solving of the Rubiks Cube until he isn't aware
-    of time and his surroundings anymore.  “Time Machine” is the first short
-    Film with more complex character animation, backgrounds, music composition
-    and sound design. The animation is completely produced in Virtual Realty
-    (AnimVR, Quill).
-  vimeonummer: 290033474
-video_two:
-  headline: Atelier
-  text: >-
-    Made with AnimVr in Virtual Reality. Fun to do. I used a spherical
-    photograph of  my room as background and modeled everything onto it. I was
-    scared a couple of times  because I saw myself taking a photo behind
-    me....in VR everything is a bit confusing ... I had to project it onto a
-    sphere because of the file size limit of Sketchfab, but still interesting
-    piece even without stereoscopic. 
-video_three:
-  headline: A Cochlear Implant - Infographic
-  text: >-
-    People often ask Eric what it is like to be a cyborg…. So, he made this
-    short  infographic with AnimVR in virtual reality about “Cochlear Implants”.
-    He also  wants to remind people and filmmakers that subtitles are very
-    welcome for the  70 million deaf people out there.
-  vimeonummer: '273708263'
+videoList:
+  video2:
+    embed: >-
+      <div class="sketchfab-embed-wrapper" style="height:100%;"><iframe
+      width="100%" height="100%"
+      src="https://sketchfab.com/models/286262312bea446596b99329e12ba926/embed"
+
+
+      \    frameborder="0" allow="autoplay; fullscreen; vr"
+      mozallowfullscreen="true"
+
+
+      \    webkitallowfullscreen="true"></iframe>
+
+
+      \    <p style="font-size: 13px; font-weight: normal; margin: 5px; color:
+      #4A4A4A;">
+
+
+      \    <a
+      href="https://sketchfab.com/models/286262312bea446596b99329e12ba926?utm_medium=embed&utm_source=website&utm_campaign=share-popup"
+
+
+      \    target="_blank" style="font-weight: bold; color: #1CAAD9;">My
+      Room</a>
+
+
+      \    by <a
+      href="https://sketchfab.com/Lavamaschine?utm_medium=embed&utm_source=website&utm_campaign=share-popup"
+
+
+      \    target="_blank" style="font-weight: bold; color:
+      #1CAAD9;">Lavamaschine</a>
+
+
+      \    on <a
+      href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup"
+
+
+      \    target="_blank" style="font-weight: bold; color:
+      #1CAAD9;">Sketchfab</a>
+
+
+      \    </p>
+
+
+      \    </div>
+
+
+      </div>
 ---
 
