@@ -34,6 +34,6 @@ videoList:
       are very welcome for the  70 million deaf people out there.
     vimeonummer: '273708263'
   video4:
-    embed: <div>foobar</div>
+    embed: '`<div>foobar</div>`'
 ---
 
