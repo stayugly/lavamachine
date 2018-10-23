@@ -10,7 +10,7 @@ videoSpecial:
     scared a couple of times because I saw myself taking a photo behind me....in
     VR everything is a bit confusing ... I had to project it onto a sphere
     because of the file size limit of Sketchfab, but still interesting piece
-    even without stereoscopic.foobar
+    even without stereoscopic.
 videoList:
   video1:
     headline: Time Machine
