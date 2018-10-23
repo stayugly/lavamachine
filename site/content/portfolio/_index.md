@@ -31,5 +31,14 @@ videoList:
       Implants”.  He also  wants to remind people and filmmakers that subtitles
       are very welcome for the  70 million deaf people out there.
     vimeonummer: '273708263'
+  video3:
+    headline: Life Painting – “Fire Golem” (Time Lapse)
+    reverse: true
+    text: >-
+      It’s such interesting and satisfying just to follow the painting strokes
+      in three-dimensional space becoming the desired image. More and more the
+      picture is revealed to the audience. More and more the artist takes us
+      into his vision of the scene.
+    vimeonummer: 294218014
 ---
 
