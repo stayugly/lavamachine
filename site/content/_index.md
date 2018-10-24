@@ -16,6 +16,7 @@ headlineBig:
 textAndTextAndText:
   images_are_small: true
   item1:
+    buttonUrl: 'https://www.lavamachine.com/portfolio/'
     buttontext: Visit Portfolio
     heading: VR Films
     image: /img/Lavamachine_Icon_01-01.svg
@@ -28,6 +29,7 @@ textAndTextAndText:
       use Rift and different VR painting tools. The standard length is four
       hours.
   item3:
+    buttonUrl: 'https://www.lavamachine.com/vr-live-painting/'
     buttontext: Visit Live Painting
     heading: VR Live Painting
     image: /img/Lavamachine_Icon_03-03.svg
