@@ -1,4 +1,4 @@
-{{ if or .vimeonummer }}
+{{ if gt .vimeonummer 0 }}
 	<div class="flex-m mhn3-m mb4">
 	    <div class="ph3-m w-50-m {{ if eq .reverse true }} order-last-m {{ end }}">
 	        <iframe src="https://player.vimeo.com/video/{{.vimeonummer}}" 
