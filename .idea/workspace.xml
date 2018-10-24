@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/video-block.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/partials/video-block.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +26,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="55" />
-          <entry key="html" value="95" />
+          <entry key="css" value="56" />
+          <entry key="html" value="96" />
           <entry key="ico" value="1" />
           <entry key="jpg" value="2" />
           <entry key="json" value="4" />
@@ -42,8 +41,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="55" />
-          <entry key="HTML" value="95" />
+          <entry key="CSS" value="56" />
+          <entry key="HTML" value="96" />
           <entry key="Image" value="10" />
           <entry key="JSON" value="4" />
           <entry key="Markdown" value="27" />
@@ -55,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1166" />
+          <entry key="css" value="1185" />
           <entry key="html" value="1804" />
           <entry key="json" value="3" />
           <entry key="md" value="2230" />
@@ -64,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1166" />
+          <entry key="CSS" value="1185" />
           <entry key="HTML" value="1804" />
           <entry key="JSON" value="3" />
           <entry key="Markdown" value="2230" />
@@ -75,11 +74,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/layouts/partials/video-block.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <state relative-caret-position="209">
+              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -135,7 +146,6 @@
         <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css" />
-        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/headline-big.html" />
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
@@ -158,6 +168,7 @@
         <option value="$PROJECT_DIR$/site/static/admin/config.yml" />
         <option value="$PROJECT_DIR$/site/layouts/section/portfolio.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/video-block.html" />
+        <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
       </list>
     </option>
   </component>
@@ -210,34 +221,25 @@
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="section" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
-              <item name="site" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,12 +300,12 @@
       <workItem from="1536308845043" duration="91000" />
       <workItem from="1536315934614" duration="18000" />
       <workItem from="1538572541559" duration="10708000" />
-      <workItem from="1540377528126" duration="412000" />
+      <workItem from="1540377528126" duration="705000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52094000" />
+    <option name="totallyTimeSpent" value="52387000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1130" extended-state="6" />
@@ -357,9 +359,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/static/img/safari-pinned-tab.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/section/contact.html" />
     <entry file="file://$PROJECT_DIR$/site/static/img/Timemachine_Still_01.png">
       <provider selected="true" editor-type-id="images" />
@@ -383,13 +382,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-image.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -637,7 +629,24 @@
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/video-block.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
