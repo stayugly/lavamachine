@@ -1,6 +1,6 @@
 ---
 title: VR Live Painting
-image: /img/greenscreen-highres4kpic.jpg
+image: /img/greenscreen-highres4kpic_02.png
 welcomeBlurb:
   heading: Refresh your Audience
   text: "We paint live on a big screen for events like author \nreadings, concerts, theatres and festivals. \x03VR Live painting will massivly intensify your main act in perfect symbiose. Give your audience a refreshing \nand unforgettable experience."
