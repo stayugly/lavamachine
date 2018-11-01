@@ -10,7 +10,7 @@ welcomeBlurb:
     immersive experience which  remains in their head forever.
 imageAndImage:
   imagelefturl: /img/Portfolio-jumbotron-small.jpeg
-  imagerighturl: /img/greenscreen-highres4kpic.jpg
+  imagerighturl: /img/greenscreen-highres4kpic_16_9.jpg
 headlineBig:
   headline: Our Services
 textAndTextAndText:
