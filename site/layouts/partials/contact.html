@@ -1,0 +1,25 @@
+<div class="bg-grey-1 pv4 lavamachine-text-and-text">
+    <div class="ph3 mw7 center">
+
+        <div class="flex-l mhn2-l justify-around">
+            <div class="w-25-l ph2-l">
+                <h3 class="f4 b lh-title mb1 primary">{{.heading}}</h3>
+                <ul class="mb3">
+                    <li>{{.name}}</li>
+                    <li>{{.street}}</li>
+                    <li>{{.plz}} {{.city}}</li>
+                    <li>{{.country}}</li>
+                    <li><a href="tel:{{.telephone}}">{{.telephone}}</a></li>
+                    <li><a href="mailto:{{.email}}">{{.email}}</a></li>
+                </ul>
+            </div>
+
+            <div class="w-25-l ph2-l">
+                <h3 class="f4 b lh-title mb2 primary">Social Media</h3>
+                <ul class="mhn2">
+                    {{ partial "social-icon" (dict "link" "https://www.instagram.com/lavamachine/" "svg" "icons-instagram") }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

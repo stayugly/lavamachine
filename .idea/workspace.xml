@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="" />
+    <list default="true" id="8f4dd758-fe0b-4245-815c-a73dcf87cf55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/site/content/data-protection/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/content/imprint/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/content/workshops/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/layouts/partials/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/layouts/partials/simple-text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/layouts/section/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/layouts/section/data-protection.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/layouts/section/imprint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site/layouts/section/workshops.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/content/contact/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/content/contact/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/partials/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/partials/short-text.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/layouts/section/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/section/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/site/static/admin/config.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,33 +90,121 @@
     <session id="-1375608029">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="1" />
+          <entry key="css" value="1" />
+          <entry key="html" value="26" />
+          <entry key="json" value="2" />
+          <entry key="md" value="16" />
+          <entry key="toml" value="2" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="26" />
+          <entry key="JSON" value="2" />
+          <entry key="Markdown" value="16" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="501" />
+          <entry key="md" value="390" />
+          <entry key="yml" value="448" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="501" />
+          <entry key="Markdown" value="390" />
+          <entry key="YAML" value="448" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.lifecycle.project" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/site/layouts/section/data-protection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/starter-README.md">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="110" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="110" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/section/imprint.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/layouts/partials/simple-text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/content/data-protection/_index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="510" selection-end-line="4" />
+              </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/content/imprint/_index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="770" selection-start-line="2" selection-start-column="770" selection-end-line="2" selection-end-column="770" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4035">
+              <caret line="269" selection-start-line="269" selection-end-line="269" />
             </state>
           </provider>
         </entry>
@@ -149,7 +255,6 @@
         <option value="$PROJECT_DIR$/site/content/videos/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/media-block-reverse-embed.html" />
-        <option value="$PROJECT_DIR$/site/layouts/section/about.html" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-nav.css" />
         <option value="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css" />
@@ -158,8 +263,6 @@
         <option value="$PROJECT_DIR$/src/css/main.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css" />
-        <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
-        <option value="$PROJECT_DIR$/site/layouts/index.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text-and-text.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/text-and-text.html" />
         <option value="$PROJECT_DIR$/site/content/_index.md" />
@@ -167,16 +270,29 @@
         <option value="$PROJECT_DIR$/site/static/manifest.json" />
         <option value="$PROJECT_DIR$/site/layouts/partials/head.html" />
         <option value="$PROJECT_DIR$/site/content/portfolio/_index.md" />
-        <option value="$PROJECT_DIR$/site/layouts/partials/nav.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/image-grid.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/headline-big-2.html" />
         <option value="$PROJECT_DIR$/site/layouts/section/vr-live-painting.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/icon-grid.html" />
         <option value="$PROJECT_DIR$/site/content/vr-live-painting/_index.md" />
-        <option value="$PROJECT_DIR$/site/static/admin/config.yml" />
         <option value="$PROJECT_DIR$/site/layouts/section/portfolio.html" />
         <option value="$PROJECT_DIR$/site/layouts/partials/video-block.html" />
         <option value="$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron-secondary.css" />
+        <option value="$PROJECT_DIR$/site/layouts/index.html" />
+        <option value="$PROJECT_DIR$/site/layouts/section/about.html" />
+        <option value="$PROJECT_DIR$/site/layouts/section/workshops.html" />
+        <option value="$PROJECT_DIR$/site/layouts/section/contact.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/nav.html" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/contact.html" />
+        <option value="$PROJECT_DIR$/site/content/contact/_index.md" />
+        <option value="$PROJECT_DIR$/site/content/workshops/_index.md" />
+        <option value="$PROJECT_DIR$/site/content/data-protection/_index.md" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/short-text.html" />
+        <option value="$PROJECT_DIR$/site/layouts/section/data-protection.html" />
+        <option value="$PROJECT_DIR$/site/content/imprint/_index.md" />
+        <option value="$PROJECT_DIR$/site/layouts/section/imprint.html" />
+        <option value="$PROJECT_DIR$/site/static/admin/config.yml" />
+        <option value="$PROJECT_DIR$/site/layouts/partials/footer.html" />
       </list>
     </option>
   </component>
@@ -200,6 +316,9 @@
     <option name="width" value="1920" />
     <option name="height" value="1130" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -213,6 +332,37 @@
               <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
               <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lavamachine" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lavamachine" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -224,7 +374,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541860260972" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541867213996" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -234,13 +384,15 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/site/static/img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/content/data-protection" />
+      <recent name="$PROJECT_DIR$/site/content/imprint" />
+      <recent name="$PROJECT_DIR$/site/content/workshops" />
       <recent name="$PROJECT_DIR$/site/layouts/partials" />
       <recent name="$PROJECT_DIR$/site/static/img" />
-      <recent name="$PROJECT_DIR$/site/static/font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/site/static/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,10 +430,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52565000" />
+    <option name="totallyTimeSpent" value="59319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="837" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23032904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,83 +484,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/site/static/img/Timemachine_Still_01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/img/piers01.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-jumbotron.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-image.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-text-and-text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-headline-big.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="91" column="49" selection-start-line="91" selection-start-column="49" selection-end-line="91" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lavamachine/_lavamachine-variables.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/img/Lavamachine_Icon_03-03.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/img/Lavamachine_Icon_01-01.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/img/android-chrome-192x192.png" />
-    <entry file="file://$PROJECT_DIR$/site/static/img/android-chrome-512x512.png" />
-    <entry file="file://$PROJECT_DIR$/site/static/img/apple-touch-icon.png" />
-    <entry file="file://$PROJECT_DIR$/site/static/img/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/static/img/apple-icon-180x180.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -417,31 +493,11 @@
     <entry file="file://$PROJECT_DIR$/site/static/img/favicon-16x16.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/content/about/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/static/browserconfig.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/config.toml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/site/static/admin/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="62" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text-and-text.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -450,35 +506,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/contact-form.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/welcome-blurb.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/image-and-image.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/content/portfolio/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -504,13 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/image-grid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -525,23 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/section/vr-live-painting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/content/vr-live-painting/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="703">
-            <caret line="37" selection-start-line="37" selection-end-line="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/icon-grid.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -549,24 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/content/_index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/media-block-embed.html" />
-    <entry file="file://$PROJECT_DIR$/site/layouts/section/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/section/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="931">
@@ -581,27 +572,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="75" column="48" selection-start-line="75" selection-start-column="48" selection-end-line="75" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/partials/video-block.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,11 +586,224 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/vr-live-painting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/config.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renovate.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/starter-README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netlify.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/about/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="375">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/contact-form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/blockquote.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/imports/_flexbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/text-and-text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/vr-live-painting/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/jumbotron-secondary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/blog.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/_default/single.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/contact/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/workshops/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="480">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/workshops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4035">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/imprint/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="770" selection-start-line="2" selection-start-column="770" selection-end-line="2" selection-end-column="770" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/content/data-protection/_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="510" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/simple-text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/imprint.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/section/data-protection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="110" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/layouts/partials/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>

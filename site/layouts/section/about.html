@@ -1,13 +1,13 @@
 {{ define "main" }}
 
-{{ partial "jumbotron-secondary" (dict "imageUrl" .Params.image "title" .Title) }}
+    {{ partial "jumbotron-secondary" (dict "imageUrl" .Params.image "title" .Title) }}
 
-{{ partial "welcome-blurb" .Params.welcomeBlurb }}
+    {{ partial "welcome-blurb" .Params.welcomeBlurb }}
 
-{{ partial "headline-big" .Params.headlineBig }}
+    {{ partial "headline-big" .Params.headlineBig }}
 
-{{ partial "text-and-text" .Params.textAndText }}
+    {{ partial "text-and-text" .Params.textAndText }}
 
-{{ partial "footer" . }}
+    {{ partial "footer" . }}
 
 {{ end }}

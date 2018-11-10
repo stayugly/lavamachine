@@ -44,7 +44,7 @@ collections: # A list of collections the CMS should be able to edit
           {label: Button Text, name: buttontext, widget: string},
           {label: Button Url, name: buttonUrl, widget: string}]},
         {label: Small Images, name: images_are_small, widget: string}
-    ]}        
+    ]}
   - file: "site/content/about/_index.md"
     label: "About Page"
     name: "about"
@@ -125,8 +125,7 @@ collections: # A list of collections the CMS should be able to edit
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Display video on the right, name: reverse, widget: boolean}]}      
-        ]}
+          {label: Display video on the right, name: reverse, widget: boolean}]}]}
   - file: "site/content/vr-live-painting/_index.md"
     label: "VR Live Painting Page"
     name: "vr-live-painting"
@@ -186,7 +185,7 @@ collections: # A list of collections the CMS should be able to edit
           {label: Headline, name: headline, widget: string},
           {label: Text, name: text, widget: text},
           {label: Vimeo Video Number, name: vimeonummer, widget: number, valueType: int},
-          {label: Display video on the right, name: reverse, widget: boolean}]}      
+          {label: Display video on the right, name: reverse, widget: boolean}]}
         ]}
     - {label: Headline, name: headlineBig, widget: object, fields: [
         {label: Headline, name: headline, widget: string}]}
@@ -206,5 +205,65 @@ collections: # A list of collections the CMS should be able to edit
         {label: Image Four, name: image4, widget: object, fields: [
           {label: Image, name: image, widget: image},
           {label: Alt, name: alt, widget: string},
-          {label: Text, name: text, widget: string}]}
-    ]}
+          {label: Text, name: text, widget: string}]}]}
+  - file: "site/content/contact/_index.md"
+    label: "Contact Page"
+    name: "contact"
+    fields:
+    - {label: Title, name: title, widget: string}
+    - {label: Image, name: image, widget: image}
+    - {label: Contact Info, name: contactData, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Name, name: name, widget: string},
+        {label: Street, name: street, widget: string},
+        {label: PLZ, name: plz, widget: string},
+        {label: City, name: city, widget: string},
+        {label: Country, name: country, widget: string},
+        {label: Telephone, name: telephone, widget: string},
+        {label: Email, name: email, widget: string}]}
+  - file: "site/content/workshop/_index.md"
+    label: "Workshop Page"
+    name: "workshop"
+    fields:
+    - {label: Title, name: title, widget: string}
+    - {label: Image, name: image, widget: image}
+    - {label: Welcome Text, name: welcomeBlurb, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Text, name: text, widget: text}]}
+    - {label: Double Image, name: imageAndImage, widget: object, fields: [
+        {label: Image Left, name: imagelefturl, widget: image},
+        {label: Image Right, name: imagerighturl, widget: image}]}
+    - {label: Headline, name: headlineBig, widget: object, fields: [
+        {label: Headline, name: headline, widget: string}]}
+    - {label: Icons with Text, name: textAndTextAndText, widget: object, fields: [
+        {label: Item One, name: item1, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Text, name: text, widget: string},
+        {label: Image, name: image, widget: image},
+        {label: Button Text, name: buttontext, widget: string},
+        {label: Button Url, name: buttonUrl, widget: string}]},
+        {label: Item Two, name: item2, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Text, name: text, widget: string},
+        {label: Image, name: image, widget: image},
+        {label: Button Text, name: buttontext, widget: string},
+        {label: Button Url, name: buttonUrl, widget: string}]},
+        {label: Item Three, name: item3, widget: object, fields: [
+        {label: Heading, name: heading, widget: string},
+        {label: Text, name: text, widget: string},
+        {label: Image, name: image, widget: image},
+        {label: Button Text, name: buttontext, widget: string},
+        {label: Button Url, name: buttonUrl, widget: string}]},
+        {label: Small Images, name: images_are_small, widget: string}]}
+  - file: "site/content/data-protection/_index.md"
+    label: "Data Protection"
+    name: "data-protection"
+    fields:
+    - {label: Title, name: heading, widget: string}
+    - {label: Content, name: body, widget: markdown}
+  - file: "site/content/imprint/_index.md"
+    label: "Imprint"
+    name: "imprint"
+    fields:
+    - {label: Title, name: heading, widget: string}
+    - {label: Content, name: body, widget: markdown}
