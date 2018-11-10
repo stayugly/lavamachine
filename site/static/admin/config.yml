@@ -260,10 +260,10 @@ collections: # A list of collections the CMS should be able to edit
     name: "data-protection"
     fields:
     - {label: Title, name: heading, widget: string}
-    - {label: Content, name: body, widget: markdown}
+    - {label: Content, name: content, widget: markdown}
   - file: "site/content/imprint/_index.md"
     label: "Imprint"
     name: "imprint"
     fields:
     - {label: Title, name: heading, widget: string}
-    - {label: Content, name: body, widget: markdown}
+    - {label: Content, name: content, widget: markdown}
