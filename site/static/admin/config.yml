@@ -221,9 +221,9 @@ collections: # A list of collections the CMS should be able to edit
         {label: Country, name: country, widget: string},
         {label: Telephone, name: telephone, widget: string},
         {label: Email, name: email, widget: string}]}
-  - file: "site/content/workshop/_index.md"
-    label: "Workshop Page"
-    name: "workshop"
+  - file: "site/content/workshops/_index.md"
+    label: "Workshops Page"
+    name: "workshops"
     fields:
     - {label: Title, name: title, widget: string}
     - {label: Image, name: image, widget: image}
