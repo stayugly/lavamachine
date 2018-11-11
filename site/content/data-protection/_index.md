@@ -3,7 +3,7 @@ heading: Data Protection
 content: >-
   Datenschutz <br>
 
-  Datenschutzerklärung<br>
+  Datenschutzerklärung<br><br><br>
 
 
   Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat
@@ -15,7 +15,7 @@ content: >-
   personenbezogener Daten erforderlich werden. Ist die Verarbeitung
   personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung
   keine gesetzliche Grundlage, holen wir generell eine Einwilligung der
-  betroffenen Person ein.
+  betroffenen Person ein.<br><br>
 
 
   Die Verarbeitung personenbezogener Daten, beispielsweise des Namens, der
@@ -26,7 +26,7 @@ content: >-
   Unternehmen die Öffentlichkeit über Art, Umfang und Zweck der von uns
   erhobenen, genutzten und verarbeiteten personenbezogenen Daten informieren.
   Ferner werden betroffene Personen mittels dieser Datenschutzerklärung über die
-  ihnen zustehenden Rechte aufgeklärt.
+  ihnen zustehenden Rechte aufgeklärt.<br><br>
 
 
   Die Piers Goffart / Lavamachine hat als für die Verarbeitung Verantwortlicher
@@ -36,9 +36,10 @@ content: >-
   Datenübertragungen grundsätzlich Sicherheitslücken aufweisen, sodass ein
   absoluter Schutz nicht gewährleistet werden kann. Aus diesem Grund steht es
   jeder betroffenen Person frei, personenbezogene Daten auch auf alternativen
-  Wegen, beispielsweise telefonisch, an uns zu übermitteln.
+  Wegen, beispielsweise telefonisch, an uns zu übermitteln.<br><br>
 
-  1. Begriffsbestimmungen
+
+  1. Begriffsbestimmungen<br><br>
 
 
   Die Datenschutzerklärung der Piers Goffart / Lavamachine beruht auf den
@@ -47,14 +48,14 @@ content: >-
   verwendet wurden. Unsere Datenschutzerklärung soll sowohl für die
   Öffentlichkeit als auch für unsere Kunden und Geschäftspartner einfach lesbar
   und verständlich sein. Um dies zu gewährleisten, möchten wir vorab die
-  verwendeten Begrifflichkeiten erläutern.
+  verwendeten Begrifflichkeiten erläutern.<br><br>
 
 
   Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden
   Begriffe:
 
 
-  a) personenbezogene Daten
+  a) personenbezogene Daten<br><br>
 
 
   Personenbezogene Daten sind alle Informationen, die sich auf eine
@@ -65,14 +66,14 @@ content: >-
   Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck
   der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen,
   kulturellen oder sozialen Identität dieser natürlichen Person sind,
-  identifiziert werden kann.
+  identifiziert werden kann.<br><br>
 
   b) betroffene Person
 
 
   Betroffene Person ist jede identifizierte oder identifizierbare natürliche
   Person, deren personenbezogene Daten von dem für die Verarbeitung
-  Verantwortlichen verarbeitet werden.
+  Verantwortlichen verarbeitet werden.<br><br>
 
   c) Verarbeitung
 
@@ -85,12 +86,12 @@ content: >-
   eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die
   Einschränkung, das Löschen oder die Vernichtung.
 
-  d) Einschränkung der Verarbeitung
+  d) Einschränkung der Verarbeitung<br><br>
 
 
   Einschränkung der Verarbeitung ist die Markierung gespeicherter
   personenbezogener Daten mit dem Ziel, ihre künftige Verarbeitung
-  einzuschränken.
+  einzuschränken.<br><br>
 
   e) Profiling
 
@@ -237,6 +238,7 @@ content: >-
   Setzung von Cookies in dem genutzten Internetbrowser, sind unter Umständen
   nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.
 
+
   4. Erfassung von allgemeinen Daten und Informationen
 
 
@@ -271,6 +273,7 @@ content: >-
   anonymen Daten der Server-Logfiles werden getrennt von allen durch eine
   betroffene Person angegebenen personenbezogenen Daten gespeichert.
 
+
   5. Kommentarfunktion im Blog auf der Internetseite
 
 
@@ -300,6 +303,7 @@ content: >-
   eine solche Weitergabe nicht gesetzlich vorgeschrieben ist oder der
   Rechtsverteidigung des für die Verarbeitung Verantwortlichen dient.
 
+
   6. Abonnement von Kommentaren im Blog auf der Internetseite
 
 
@@ -315,6 +319,7 @@ content: >-
   sich wirklich der Inhaber der angegebenen E-Mail-Adresse für diese Option
   entschieden hat. Die Option zum Abonnement von Kommentaren kann jederzeit
   beendet werden.
+
 
   7. Routinemäßige Löschung und Sperrung von personenbezogenen Daten
 
@@ -332,6 +337,7 @@ content: >-
   vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten
   routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder
   gelöscht.
+
 
   8. Rechte der betroffenen Person
 
@@ -692,6 +698,7 @@ content: >-
   durch die betroffene Person genutzt werden, um eine Datenübermittlung an
   Facebook zu unterdrücken.
 
+
   10. Datenschutzbestimmungen zu Einsatz und Verwendung von Google AdSense
 
 
@@ -757,6 +764,7 @@ content: >-
 
   Google-AdSense wird unter diesem Link
   https://www.google.de/intl/de/adsense/start/ genauer erläutert.
+
 
   11. Datenschutzbestimmungen zu Einsatz und Verwendung von Google Analytics
   (mit Anonymisierungsfunktion)
@@ -855,6 +863,7 @@ content: >-
   Analytics wird unter diesem Link https://www.google.com/intl/de_de/analytics/
   genauer erläutert.
 
+
   12. Datenschutzbestimmungen zu Einsatz und Verwendung von Instagram
 
 
@@ -905,6 +914,7 @@ content: >-
   Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram
   können unter https://help.instagram.com/155833707900388 und
   https://www.instagram.com/about/legal/privacy/ abgerufen werden.
+
 
   13. Datenschutzbestimmungen zu Einsatz und Verwendung von Twitter
 
@@ -967,6 +977,7 @@ content: >-
   Die geltenden Datenschutzbestimmungen von Twitter sind unter
   https://twitter.com/privacy?lang=de abrufbar.
 
+
   14. Datenschutzbestimmungen zu Einsatz und Verwendung von Xing
 
 
@@ -1023,6 +1034,7 @@ content: >-
   hat Xing unter https://www.xing.com/app/share?op=data_protection
   Datenschutzhinweise für den XING-Share-Button veröffentlicht.
 
+
   15. Datenschutzbestimmungen zu Einsatz und Verwendung von YouTube
 
 
@@ -1076,6 +1088,7 @@ content: >-
   Aufschluss über die Erhebung, Verarbeitung und Nutzung personenbezogener Daten
   durch YouTube und Google.
 
+
   16. Rechtsgrundlage der Verarbeitung
 
 
@@ -1110,6 +1123,7 @@ content: >-
   ein berechtigtes Interesse anzunehmen sein könnte, wenn die betroffene Person
   ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DS-GVO).
 
+
   17. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen
   oder einem Dritten verfolgt werden
 
@@ -1118,6 +1132,7 @@ content: >-
   ist unser berechtigtes Interesse die Durchführung unserer Geschäftstätigkeit
   zugunsten des Wohlergehens all unserer Mitarbeiter und unserer Anteilseigner.
 
+
   18. Dauer, für die die personenbezogenen Daten gespeichert werden
 
 
@@ -1125,6 +1140,7 @@ content: >-
   die jeweilige gesetzliche Aufbewahrungsfrist. Nach Ablauf der Frist werden die
   entsprechenden Daten routinemäßig gelöscht, sofern sie nicht mehr zur
   Vertragserfüllung oder Vertragsanbahnung erforderlich sind.
+
 
   19. Gesetzliche oder vertragliche Vorschriften zur Bereitstellung der
   personenbezogenen Daten; Erforderlichkeit für den Vertragsabschluss;
@@ -1149,6 +1165,7 @@ content: >-
   Vertragsabschluss erforderlich ist, ob eine Verpflichtung besteht, die
   personenbezogenen Daten bereitzustellen, und welche Folgen die
   Nichtbereitstellung der personenbezogenen Daten hätte.
+
 
   20. Bestehen einer automatisierten Entscheidungsfindung
 
