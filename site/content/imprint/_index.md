@@ -1,7 +1,7 @@
 ---
 heading: Imprint
 content: >-
-  # Lavamachine
+  Lavamachine<br>
 
 
   Piers Goffart <br>
@@ -25,7 +25,7 @@ content: >-
   Umsatzsteuer-IdNr.: DE317305919<br><br>
 
 
-  <a class="link"
+  <a class="link primary underline"
   href="https://www.lavamachine.com/img/agb_lavamachine.pdf">Allgemeine
   Geschäftsbedingungen</a><br><br>
 
