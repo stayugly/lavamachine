@@ -4,7 +4,7 @@ content: >-
   # Lavamachine
 
 
-  Piers Goffart
+  Piers Goffart <br>
 
 
   Barteheider Str. 147a
@@ -16,14 +16,10 @@ content: >-
   Germany 
 
 
-
-
   +49 (0)157 - 79484085
 
 
   mail{at}piersgoffart.com
-
-
 
 
   Umsatzsteuer-IdNr.: DE317305919
@@ -33,18 +29,12 @@ content: >-
   AGB.pdf)
 
 
-
-
   © all rights reserved - Alle Texte, Bilder und Grafiken unterliegen dem
   Urheberrecht und dürfen nicht ohne vorherige schriftliche Genehmigung
   veröffentlicht werden. 
 
 
-
-
   Europäische Online-Streitbeilegungs-Plattform: 
-
-
 
 
   Seit dem 15. Februar 2016 stellt die EU-Kommission eine Plattform für
