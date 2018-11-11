@@ -1,9 +1,9 @@
 ---
 heading: Data Protection
 content: >-
-  Datenschutz
+  Datenschutz <br>
 
-  Datenschutzerklärung
+  Datenschutzerklärung<br>
 
 
   Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat
