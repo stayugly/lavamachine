@@ -7,34 +7,35 @@ content: >-
   Piers Goffart <br>
 
 
-  Barteheider Str. 147a
+  Barteheider Str. 147a<br>
 
 
-  22143 Hamburg
+  22143 Hamburg<br>
 
 
-  Germany 
+  Germany <br>
 
 
-  +49 (0)157 - 79484085
+  +49 (0)157 - 79484085<br>
 
 
-  mail{at}piersgoffart.com
+  mail{at}piersgoffart.com<br>
 
 
-  Umsatzsteuer-IdNr.: DE317305919
+  Umsatzsteuer-IdNr.: DE317305919<br><br>
 
 
-  Allgemeine Geschäftsbedingungen als herunterladbares PDF: Anzeigen (<-Link zu
-  AGB.pdf)
+  <a class="link"
+  href="https://www.lavamachine.com/img/agb_lavamachine.pdf">Allgemeine
+  Geschäftsbedingungen</a><br><br>
 
 
   © all rights reserved - Alle Texte, Bilder und Grafiken unterliegen dem
   Urheberrecht und dürfen nicht ohne vorherige schriftliche Genehmigung
-  veröffentlicht werden. 
+  veröffentlicht werden. <br><br>
 
 
-  Europäische Online-Streitbeilegungs-Plattform: 
+  Europäische Online-Streitbeilegungs-Plattform: <br>
 
 
   Seit dem 15. Februar 2016 stellt die EU-Kommission eine Plattform für
