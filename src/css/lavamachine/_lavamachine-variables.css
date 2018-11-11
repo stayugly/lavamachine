@@ -2,7 +2,7 @@
     /* Colors */
     --lavamachine-primary: rgb(227, 136, 135);
     --primary: var(--lavamachine-primary);
-    --lavamachine-headline-background: rgba(255, 255, 255, 0.5);
+    --lavamachine-headline-background: rgba(255, 255, 255, 0.70);
 
     /* Miscelaneous */
     --border-radius: 0;

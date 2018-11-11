@@ -20,6 +20,39 @@ textAndText:
   headingright: Piers Goffart
   subheadingright: Art Director, Animator
   textright: Is a freelance illustrator and animator with a passion for storytelling, comedy and character acting. In 2015 he won the POS Award for best Artwork. Since 2017 he shifted his craft more and more into VR painting and animation.
+softwareImages:
+    headline: Software
+    image1:
+        image: /img/animvr.jpg
+        alt: animvr
+    image2:
+        image: /img/GravitySketch.jpg
+        alt: GravitySketch
+    image3:
+        image: /img/masterpieceVR.jpg
+        alt: masterpieceVR
+    image4:
+        image: /img/medium.jpg
+        alt: medium
+    image5:
+        image: /img/quill.jpg
+        alt: quill  
+    image6:
+        image: /img/tiltbrush.jpg
+        alt: tiltbrush 
+    image7:
+        image: /img/tvori.png
+        alt: tvori
+    image8:
+        image: /img/blocks_ico.jpg
+        alt: blocksico 
+additionalImages:
+    image1:
+        image: /img/GravitySketch_betatester.jpg
+        alt: GravitySketch_betatester
+    image2:
+        image: /img/oculus_official_start_member.jpg
+        alt: oculus_official_start_member 
 ---
 
 
