@@ -102,7 +102,9 @@ content: >-
   beziehen, zu bewerten, insbesondere, um Aspekte bezüglich Arbeitsleistung,
   wirtschaftlicher Lage, Gesundheit, persönlicher Vorlieben, Interessen,
   Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen
-  Person zu analysieren oder vorherzusagen.
+  Person zu analysieren oder vorherzusagen.\
+
+  <br><br>
 
   f) Pseudonymisierung
 
@@ -113,7 +115,9 @@ content: >-
   werden können, sofern diese zusätzlichen Informationen gesondert aufbewahrt
   werden und technischen und organisatorischen Maßnahmen unterliegen, die
   gewährleisten, dass die personenbezogenen Daten nicht einer identifizierten
-  oder identifizierbaren natürlichen Person zugewiesen werden.
+  oder identifizierbaren natürlichen Person zugewiesen werden.\
+
+  <br><br>
 
   g) Verantwortlicher oder für die Verarbeitung Verantwortlicher
 
@@ -127,12 +131,18 @@ content: >-
   Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der
   Mitgliedstaaten vorgesehen werden.
 
+
+  <br><br>
+
   h) Auftragsverarbeiter
 
 
   Auftragsverarbeiter ist eine natürliche oder juristische Person, Behörde,
   Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des
   Verantwortlichen verarbeitet.
+
+
+  <br><br>
 
   i) Empfänger
 
@@ -144,6 +154,9 @@ content: >-
   Recht der Mitgliedstaaten möglicherweise personenbezogene Daten erhalten,
   gelten jedoch nicht als Empfänger.
 
+
+  <br><br>
+
   j) Dritter
 
 
@@ -152,6 +165,9 @@ content: >-
   Auftragsverarbeiter und den Personen, die unter der unmittelbaren
   Verantwortung des Verantwortlichen oder des Auftragsverarbeiters befugt sind,
   die personenbezogenen Daten zu verarbeiten.
+
+
+  <br><br>
 
   k) Einwilligung
 
@@ -163,12 +179,18 @@ content: >-
   Verarbeitung der sie betreffenden personenbezogenen Daten einverstanden ist.
 
 
+  <br><br>
+
+
   2. Name und Anschrift des für die Verarbeitung Verantwortlichen
 
 
   Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den
   Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und
   anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
+
+
+  <br><br>
 
 
   Piers Goffart / Lavamachine
@@ -190,6 +212,9 @@ content: >-
 
 
   Website: www.lavamachine.com
+
+
+  <br><br>
 
 
   3. Cookies
@@ -239,6 +264,9 @@ content: >-
   nicht alle Funktionen unserer Internetseite vollumfänglich nutzbar.
 
 
+  <br><br>
+
+
   4. Erfassung von allgemeinen Daten und Informationen
 
 
@@ -274,6 +302,9 @@ content: >-
   betroffene Person angegebenen personenbezogenen Daten gespeichert.
 
 
+  <br><br>
+
+
   5. Kommentarfunktion im Blog auf der Internetseite
 
 
@@ -304,6 +335,9 @@ content: >-
   Rechtsverteidigung des für die Verarbeitung Verantwortlichen dient.
 
 
+  <br><br>
+
+
   6. Abonnement von Kommentaren im Blog auf der Internetseite
 
 
@@ -319,6 +353,9 @@ content: >-
   sich wirklich der Inhaber der angegebenen E-Mail-Adresse für diese Option
   entschieden hat. Die Option zum Abonnement von Kommentaren kann jederzeit
   beendet werden.
+
+
+  <br><br>
 
 
   7. Routinemäßige Löschung und Sperrung von personenbezogenen Daten
@@ -339,6 +376,9 @@ content: >-
   gelöscht.
 
 
+  <br><br>
+
+
   8. Rechte der betroffenen Person
 
 
@@ -351,6 +391,9 @@ content: >-
   personenbezogene Daten verarbeitet werden. Möchte eine betroffene Person
   dieses Bestätigungsrecht in Anspruch nehmen, kann sie sich hierzu jederzeit an
   einen Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
+
+
+  <br><br>
 
   b) Recht auf Auskunft
 
@@ -403,6 +446,9 @@ content: >-
   sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung
   Verantwortlichen wenden.
 
+
+  <br><br>
+
   c) Recht auf Berichtigung
 
 
@@ -418,6 +464,9 @@ content: >-
   Möchte eine betroffene Person dieses Berichtigungsrecht in Anspruch nehmen,
   kann sie sich hierzu jederzeit an einen Mitarbeiter des für die Verarbeitung
   Verantwortlichen wenden.
+
+
+  <br><br>
 
   d) Recht auf Löschung (Recht auf Vergessen werden)
 
@@ -473,6 +522,9 @@ content: >-
   erforderlich ist. Der Mitarbeiter der Piers Goffart / Lavamachine wird im
   Einzelfall das Notwendige veranlassen.
 
+
+  <br><br>
+
   e) Recht auf Einschränkung der Verarbeitung
 
 
@@ -505,6 +557,9 @@ content: >-
   wenden. Der Mitarbeiter der Piers Goffart / Lavamachine wird die Einschränkung
   der Verarbeitung veranlassen.
 
+
+  <br><br>
+
   f) Recht auf Datenübertragbarkeit
 
 
@@ -534,6 +589,9 @@ content: >-
   Zur Geltendmachung des Rechts auf Datenübertragbarkeit kann sich die
   betroffene Person jederzeit an einen Mitarbeiter der Piers Goffart /
   Lavamachine wenden.
+
+
+  <br><br>
 
   g) Recht auf Widerspruch
 
@@ -613,6 +671,9 @@ content: >-
   Entscheidungen geltend machen, kann sie sich hierzu jederzeit an einen
   Mitarbeiter des für die Verarbeitung Verantwortlichen wenden.
 
+
+  <br><br>
+
   i) Recht auf Widerruf einer datenschutzrechtlichen Einwilligung
 
 
@@ -624,6 +685,9 @@ content: >-
   Möchte die betroffene Person ihr Recht auf Widerruf einer Einwilligung geltend
   machen, kann sie sich hierzu jederzeit an einen Mitarbeiter des für die
   Verarbeitung Verantwortlichen wenden.
+
+
+  <br><br>
 
 
   9. Datenschutzbestimmungen zu Einsatz und Verwendung von Facebook
@@ -699,6 +763,9 @@ content: >-
   Facebook zu unterdrücken.
 
 
+  <br><br>
+
+
   10. Datenschutzbestimmungen zu Einsatz und Verwendung von Google AdSense
 
 
@@ -764,6 +831,9 @@ content: >-
 
   Google-AdSense wird unter diesem Link
   https://www.google.de/intl/de/adsense/start/ genauer erläutert.
+
+
+  <br><br>
 
 
   11. Datenschutzbestimmungen zu Einsatz und Verwendung von Google Analytics
@@ -864,6 +934,9 @@ content: >-
   genauer erläutert.
 
 
+  <br><br>
+
+
   12. Datenschutzbestimmungen zu Einsatz und Verwendung von Instagram
 
 
@@ -914,6 +987,9 @@ content: >-
   Weitere Informationen und die geltenden Datenschutzbestimmungen von Instagram
   können unter https://help.instagram.com/155833707900388 und
   https://www.instagram.com/about/legal/privacy/ abgerufen werden.
+
+
+  <br><br>
 
 
   13. Datenschutzbestimmungen zu Einsatz und Verwendung von Twitter
@@ -978,6 +1054,9 @@ content: >-
   https://twitter.com/privacy?lang=de abrufbar.
 
 
+  <br><br>
+
+
   14. Datenschutzbestimmungen zu Einsatz und Verwendung von Xing
 
 
@@ -1035,6 +1114,9 @@ content: >-
   Datenschutzhinweise für den XING-Share-Button veröffentlicht.
 
 
+  <br><br>
+
+
   15. Datenschutzbestimmungen zu Einsatz und Verwendung von YouTube
 
 
@@ -1089,6 +1171,9 @@ content: >-
   durch YouTube und Google.
 
 
+  <br><br>
+
+
   16. Rechtsgrundlage der Verarbeitung
 
 
@@ -1122,6 +1207,9 @@ content: >-
   Gesetzgeber besonders erwähnt wurden. Er vertrat insoweit die Auffassung, dass
   ein berechtigtes Interesse anzunehmen sein könnte, wenn die betroffene Person
   ein Kunde des Verantwortlichen ist (Erwägungsgrund 47 Satz 2 DS-GVO).
+
+
+  <br><br>
 
 
   17. Berechtigte Interessen an der Verarbeitung, die von dem Verantwortlichen
