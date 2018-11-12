@@ -21,14 +21,14 @@ textAndTextAndText:
   item1:
     buttonUrl: ''
     buttontext: ''
-    heading: New Text
+    heading: ''
     image: ''
-    text: foobar
+    text: ''
   item2:
     buttontext: ''
-    heading: New Text
+    heading: ''
     image: ''
-    text: foobar!
+    text: ''
   item3:
     buttonUrl: ''
     buttontext: ''
