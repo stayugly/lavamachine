@@ -1,6 +1,6 @@
 ---
 title: Workshops
-image: /img/soe_lavamachine_poster_13_titlecrop.jpg
+image: /img/greenscreenkeyouts2_00006_01.jpg
 welcomeBlurb:
   heading: Become one with your Vision
   text: >-
