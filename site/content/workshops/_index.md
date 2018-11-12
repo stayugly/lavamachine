@@ -32,8 +32,8 @@ textAndTextAndText:
   item3:
     buttonUrl: ''
     buttontext: ''
-    heading: New Text
+    heading: ''
     image: ''
-    text: foobars
+    text: ''
 ---
 
