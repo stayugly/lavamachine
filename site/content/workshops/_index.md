@@ -12,8 +12,8 @@ welcomeBlurb:
     at our hands-on booth. True to the motto learning by doing, we want to take
     you to the various methods of virtual illustration by the hand.
 imageAndImage:
-  imagelefturl: /img/Portfolio-jumbotron-small.jpeg
-  imagerighturl: /img/greenscreen-highres4kpic_16_9.jpg
+  imagelefturl: /img/dsc06792_cropped.jpg
+  imagerighturl: /img/dsc06783_adjust.jpg
 headlineBig:
   headline: ''
 textAndTextAndText:
