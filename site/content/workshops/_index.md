@@ -20,17 +20,18 @@ textAndTextAndText:
   images_are_small: true
   item1:
     buttonUrl: ''
-    buttontext: Visit Portfolio
+    buttontext: ''
     heading: New Text
     image: ''
     text: foobar
   item2:
+    buttontext: ''
     heading: New Text
     image: ''
     text: foobar!
   item3:
     buttonUrl: ''
-    buttontext: Visit Live Painting
+    buttontext: ''
     heading: New Text
     image: ''
     text: foobars
