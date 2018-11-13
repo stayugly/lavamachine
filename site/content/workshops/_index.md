@@ -10,14 +10,14 @@ welcomeBlurb:
 
     If you have enough of the theory and just want to get started, then visit us
     at our hands-on booth. True to the motto learning by doing, we want to take
-    you to the various methods of virtual illustration by the hand.
+    you to the various methods of virtual illustration by the hand.<br><br>
 
 
-    Events in 2019:
+    Events in 2019: <br>
 
-    1. Feb. - VR Malerei,VHS Düsseldorf
+    1. Feb. - VR Malerei,VHS Düsseldorf <br>
 
-    2. Feb. - VR Skulpturenbau, VHS Düsseldorf
+    2. Feb. - VR Skulpturenbau, VHS Düsseldorf <br>
 
     24. Mai - Open VR painting workshop, VHS Köln, Komed Mediapark  
 imageAndImage:
