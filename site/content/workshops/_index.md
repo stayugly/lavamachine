@@ -30,19 +30,19 @@ textAndTextAndText:
   item1:
     buttonUrl: ''
     buttontext: ''
-    heading: ''
+    heading: 1. Feb.
     image: ''
-    text: ''
+    text: 'VR Malerei, VHS Düsseldorf'
   item2:
     buttontext: ''
-    heading: ''
+    heading: 2. Feb.
     image: ''
-    text: ''
+    text: 'VR Skulpturenbau, VHS Düsseldorf '
   item3:
     buttonUrl: ''
     buttontext: ''
-    heading: ''
+    heading: 24. Mai
     image: ''
-    text: ''
+    text: 'Open VR painting workshop, VHS Köln, Komed Mediapark  '
 ---
 
