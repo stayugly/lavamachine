@@ -23,12 +23,12 @@ textAndTextAndText:
     buttontext: ''
     heading: 1. Feb.
     image: ''
-    text: 'VR Malerei, VHS Düsseldorf'
+    text: 'VR Malerei, Stadtbibliothek Düsseldorf'
   item2:
     buttontext: ''
     heading: 2. Feb.
     image: ''
-    text: 'VR Skulpturenbau, VHS Düsseldorf '
+    text: 'VR Skulpturenbau, Stadtbibliothek Düsseldorf'
   item3:
     buttonUrl: ''
     buttontext: ''
