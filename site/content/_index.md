@@ -22,6 +22,8 @@ textAndTextAndText:
     image: /img/Lavamachine_Icon_01-01.svg
     text: You need a VR infographic or an animated short? Checkout our portfolio.
   item2:
+    buttonUrl: 'https://www.lavamachine.com/workshops/'
+    buttontext: Visit VR Workshops
     heading: VR Workshops
     image: /img/Lavamachine_Icon_02-02.svg
     text: >-
