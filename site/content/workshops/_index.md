@@ -24,7 +24,7 @@ imageAndImage:
   imagelefturl: /img/dsc06792_cropped.jpg
   imagerighturl: /img/dsc06783_adjust.jpg
 headlineBig:
-  headline: ''
+  headline: Upcoming events in 2019
 textAndTextAndText:
   images_are_small: true
   item1:
