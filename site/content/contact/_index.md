@@ -1,13 +1,14 @@
 ---
 title: Contact
-image: /img/greenscreen-highres4kpic.jpg
-contactData: 
-    heading: Contact
-    name: Piers Goffart
-    street: Bargteheider Str. 147a
-    plz: 22143
-    city: Hamburg
-    country: Germany
-    telephone: +49 1779484085
-    email: mail@piersgoffart.com
+image: /img/untitled_4_01.jpg
+contactData:
+  city: Hamburg
+  country: Germany
+  email: mail@piersgoffart.com
+  heading: Contact
+  name: Piers Goffart
+  plz: 22143
+  street: Bargteheider Str. 147a
+  telephone: +49 1779484085
 ---
+
