@@ -8,6 +8,7 @@ welcomeBlurb:
     established 3D animation filmmakers, we have studied the topic intensively
     and know that it is extremely easy to learn.
 
+
     If you have enough of the theory and just want to get started, then visit us
     at our hands-on booth. True to the motto learning by doing, we want to take
     you to the various methods of virtual illustration by the hand.
