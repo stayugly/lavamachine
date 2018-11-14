@@ -18,7 +18,7 @@ imageAndImage:
 headlineBig:
   headline: Upcoming events in 2019
 textAndTextAndText:
-  images_are_small: ''
+  images_are_small: 'true'
   item1:
     buttonUrl: 'https://www.duesseldorf.de/vhs/'
     buttontext: More Info
@@ -35,7 +35,7 @@ textAndTextAndText:
     buttonUrl: 'https://www.lavamachine.com/contact/'
     buttontext: Contact
     heading: YOU CAN BOOK US
-    image: /img/Lavamachine_Icon_03-03.svg
+    image: /img/Lavamachine_Icon_02-02.svg
     text: VR-Workshop required? Contact us and we arrange an detached appointment.
 ---
 
