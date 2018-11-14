@@ -18,7 +18,7 @@ imageAndImage:
 headlineBig:
   headline: Upcoming events in 2019
 textAndTextAndText:
-  images_are_small: 'true'
+  images_are_small: ''
   item1:
     buttonUrl: 'https://www.duesseldorf.de/vhs/'
     buttontext: More Info
