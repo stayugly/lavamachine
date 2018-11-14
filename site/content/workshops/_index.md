@@ -14,7 +14,7 @@ welcomeBlurb:
     you to the various methods of virtual illustration by the hand.
 imageAndImage:
   imagelefturl: /img/dsc06792_cropped.jpg
-  imagerighturl: /img/dsc06783_adjust.jpg
+  imagerighturl: ''
 headlineBig:
   headline: Upcoming events in 2019
 textAndTextAndText:
