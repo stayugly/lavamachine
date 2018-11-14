@@ -14,7 +14,7 @@ welcomeBlurb:
     you to the various methods of virtual illustration by the hand.
 imageAndImage:
   imagelefturl: /img/dsc06792_cropped.jpg
-  imagerighturl: ''
+  imagerighturl: /img/dsc06756b_small.jpg
 headlineBig:
   headline: Upcoming events in 2019
 textAndTextAndText:
@@ -23,7 +23,7 @@ textAndTextAndText:
     buttonUrl: ''
     buttontext: ''
     heading: 1. Feb.
-    image: /img/dsc06756b_small.jpg
+    image: ''
     text: 'VR Malerei, Stadtbibliothek Düsseldorf'
   item2:
     buttontext: ''
