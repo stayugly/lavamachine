@@ -1,6 +1,6 @@
 ---
 title: Workshops
-image: /img/greenscreenkeyouts_vertical_00000_cropped.jpg
+image: /img/greenscreenkeyouts_vertical_00006_small.jpg
 welcomeBlurb:
   heading: Become one with your Vision
   text: >
