@@ -32,8 +32,8 @@ textAndTextAndText:
     image: /img/libary-lab.png
     text: 'VR Skulpturenbau, Stadtbibliothek Düsseldorf'
   item3:
-    buttonUrl: ''
-    buttontext: ''
+    buttonUrl: 'https://www.lavamachine.com/contact/'
+    buttontext: Contact
     heading: YOU CAN BOOK US
     image: /img/Lavamachine_Icon_02-02.svg
     text: VR-Workshop required? Contact us and we arrange an detached appointment.
