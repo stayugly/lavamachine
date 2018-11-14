@@ -23,12 +23,12 @@ textAndTextAndText:
     buttonUrl: ''
     buttontext: ''
     heading: 1. Feb.
-    image: /img/csm_librarylab420_b5fdf0dc5f.jpg
+    image: /img/libary-lab.png
     text: 'VR Malerei, Stadtbibliothek Düsseldorf'
   item2:
     buttontext: ''
     heading: 2. Feb.
-    image: /img/csm_librarylab420_b5fdf0dc5f.jpg
+    image: ''
     text: 'VR Skulpturenbau, Stadtbibliothek Düsseldorf'
   item3:
     buttonUrl: ''
