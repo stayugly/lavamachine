@@ -35,7 +35,7 @@ textAndTextAndText:
     buttonUrl: 'https://www.lavamachine.com/contact/'
     buttontext: Contact
     heading: YOU CAN BOOK US
-    image: /img/Lavamachine_Icon_02-02.svg
+    image: /img/lavamachine_icon_02-02.png
     text: VR-Workshop required? Contact us and we arrange an detached appointment.
 ---
 
