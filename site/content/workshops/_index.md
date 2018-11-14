@@ -33,8 +33,10 @@ textAndTextAndText:
   item3:
     buttonUrl: ''
     buttontext: ''
-    heading: 24. Mai
+    heading: YOU CAN BOOK US
     image: ''
-    text: 'Open VR painting workshop, VHS Köln, Komed Mediapark  '
+    text: >-
+      Do you require a VR-Workshop during an Event odr for your school? Contact
+      us and we arrange an detached appointment..
 ---
 
