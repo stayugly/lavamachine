@@ -20,13 +20,14 @@ headlineBig:
 textAndTextAndText:
   images_are_small: 'true'
   item1:
-    buttonUrl: ''
-    buttontext: ''
+    buttonUrl: 'https://www.duesseldorf.de/vhs/'
+    buttontext: More Info
     heading: 1. Feb.
     image: /img/libary-lab.png
     text: 'VR Malerei, Stadtbibliothek Düsseldorf'
   item2:
-    buttontext: ''
+    buttonUrl: 'https://www.duesseldorf.de/vhs/'
+    buttontext: More Info
     heading: 2. Feb.
     image: /img/libary-lab.png
     text: 'VR Skulpturenbau, Stadtbibliothek Düsseldorf'
