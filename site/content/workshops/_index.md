@@ -35,8 +35,6 @@ textAndTextAndText:
     buttontext: ''
     heading: YOU CAN BOOK US
     image: ''
-    text: >-
-      Do you require a VR-Workshop during an Event odr for your school? Contact
-      us and we arrange an detached appointment..
+    text: VR-Workshop required? Contact us and we arrange an detached appointment.
 ---
 
