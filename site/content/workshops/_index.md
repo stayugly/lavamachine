@@ -23,7 +23,7 @@ textAndTextAndText:
     buttonUrl: ''
     buttontext: ''
     heading: 1. Feb.
-    image: ''
+    image: /img/dsc06756b_small.jpg
     text: 'VR Malerei, Stadtbibliothek Düsseldorf'
   item2:
     buttontext: ''
