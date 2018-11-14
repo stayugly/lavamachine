@@ -28,7 +28,7 @@ textAndTextAndText:
   item2:
     buttontext: ''
     heading: 2. Feb.
-    image: ''
+    image: /img/libary-lab.png
     text: 'VR Skulpturenbau, Stadtbibliothek Düsseldorf'
   item3:
     buttonUrl: ''
