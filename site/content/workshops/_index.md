@@ -34,7 +34,7 @@ textAndTextAndText:
     buttonUrl: ''
     buttontext: ''
     heading: YOU CAN BOOK US
-    image: ''
+    image: /img/Lavamachine_Icon_02-02.svg
     text: VR-Workshop required? Contact us and we arrange an detached appointment.
 ---
 
