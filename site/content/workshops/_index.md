@@ -2,7 +2,7 @@
 title: Workshops
 image: /img/greenscreenkeyouts2_00006_01.jpg
 welcomeBlurb:
-  heading: Become one with your artstic vision
+  heading: Become one with your vision
   text: >
     We arrived in the future. A new profession has emerged: the VR artist. As
     established 3D animation filmmakers, we have studied the topic intensively
