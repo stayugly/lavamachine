@@ -10,7 +10,7 @@ welcomeBlurb:
 
 
     Just like the motto learning by doing, we want to take you to the various
-    methods of virtual illustration.
+    methods of virtual painting and animation.
 imageAndImage:
   imagelefturl: /img/dsc06792_cropped.jpg
   imagerighturl: /img/dsc06756b_cropped.jpg
