@@ -5,9 +5,9 @@ image: /img/soe_lavamachine_poster_13_titlecrop.jpg
 welcomeBlurb:
   heading: Welcome to Lavamachine
   text: >-
-    Lavamachine is a collaboration between two animators,  designers and
-    storytellers. Through our 360°VR films the viewers get an incomparable
-    immersive experience which  remains in their head forever.
+    Lavamachine is a collaboration between two short film animators &
+    illustrators. Through our 360°VR films the viewers get an incomparable
+    immersive experience which remains in their head forever.
 imageAndImage:
   imagelefturl: /img/Portfolio-jumbotron-small.jpeg
   imagerighturl: /img/greenscreen-highres4kpic_16_9.jpg
@@ -28,8 +28,7 @@ textAndTextAndText:
     image: /img/Lavamachine_Icon_02-02.svg
     text: >-
       We offer workshops for groups of up to ten people. Participants learn to
-      use Rift and different VR painting tools. The standard length is four
-      hours.
+      use the Rift and different VR painting tools.
   item3:
     buttonUrl: 'https://www.lavamachine.com/vr-live-painting/'
     buttontext: Visit Live Painting
