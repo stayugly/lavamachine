@@ -2,15 +2,15 @@
 title: Workshops
 image: /img/greenscreenkeyouts_vertical_00006_small.jpg
 welcomeBlurb:
-  heading: Become one with your Vision
+  heading: Become one with your vision
   text: >
     We arrived in the future. A new profession has emerged: the VR artist. As
-    established 3D animation filmmakers, we have studied the topic intensively
-    and know that it is extremely enjoyable to learn.
+    established 3D animation filmmakers, we have studied the topic VR
+    intensively and know that it is extremely enjoyable to learn.
 
 
-    Just like the motto learning by doing, we want to show various methods of
-    virtual painting and animation.
+    During a one day workshop we want to show you the various techniques and
+    methodes of virtual painting and animation.
 imageAndImage:
   imagelefturl: /img/dsc06792_cropped.jpg
   imagerighturl: /img/dsc06756b_cropped.jpg
