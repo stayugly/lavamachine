@@ -4,55 +4,60 @@ image: /img/About-us-jumbotron-small.jpeg
 welcomeBlurb:
   heading: “Story is King”
   text: >-
-    Within our film making, design and illustration background we 
-    always had one common philosophy: “Story is King”. We know only the right 
-    and well told story will trigger emotions and transfer your message to your 
-    audience. Since 2017 we were specialized in Virtual Reality to take this craft 
-    to the next level.
+    Within our film making, design and illustration background we always had one
+    common philosophy: “Story is king”. We know that only the right and well
+    told story will trigger emotions and transfer YOUR message to YOUR 
+    audience. Since 2017 we were specialized in Virtual Reality (VR) to take
+    this craft to the next level.
 headlineBig:
   headline: The Creators
 textAndText:
-  imageleft: /img/CV-Picture-Eric-Giessmann_Director-2018B_smal.jpg
   headingleft: Eric Giessmann
-  subheadingleft: Director, Animator
-  textleft: Is an animation director for short films. In 2015 he was awarded many prizes for his graduation film "Typewriter Head". His new short “Sand Wanderer” is already successfully in distribution.
-  imageright: /img/Piers_portrait.jpg
   headingright: Piers Goffart
-  subheadingright: Art Director, Animator
-  textright: Is a freelance illustrator and animator with a passion for storytelling, comedy and character acting. In 2015 he won the POS Award for best Artwork. Since 2017 he shifted his craft more and more into VR painting and animation.
+  imageleft: /img/CV-Picture-Eric-Giessmann_Director-2018B_smal.jpg
+  imageright: /img/Piers_portrait.jpg
+  subheadingleft: 'Director, Animator'
+  subheadingright: 'Art Director, Animator'
+  textleft: >-
+    Animation director for animated short films. In 2015 he was awarded many
+    prizes for his graduation film "Typewriter Head". His new short “Sand
+    Wanderer” is already successfully in distribution.
+  textright: >-
+    Freelance illustrator and animator with a passion for storytelling, comedy
+    and character acting. In 2015 he won the POS Award for best Artwork. Since
+    2017 he shifted his craft more and more into VR painting and animation.
 softwareImages:
-    headline: Software
-    image1:
-        image: /img/animvr.jpg
-        alt: animvr
-    image2:
-        image: /img/GravitySketch.jpg
-        alt: GravitySketch
-    image3:
-        image: /img/masterpieceVR.jpg
-        alt: masterpieceVR
-    image4:
-        image: /img/medium.jpg
-        alt: medium
-    image5:
-        image: /img/quill.jpg
-        alt: quill  
-    image6:
-        image: /img/tiltbrush.jpg
-        alt: tiltbrush 
-    image7:
-        image: /img/tvori.png
-        alt: tvori
-    image8:
-        image: /img/blocks_ico.jpg
-        alt: blocksico 
+  headline: Software
+  image1:
+    alt: animvr
+    image: /img/animvr.jpg
+  image2:
+    alt: GravitySketch
+    image: /img/GravitySketch.jpg
+  image3:
+    alt: masterpieceVR
+    image: /img/masterpieceVR.jpg
+  image4:
+    alt: medium
+    image: /img/medium.jpg
+  image5:
+    alt: quill
+    image: /img/quill.jpg
+  image6:
+    alt: tiltbrush
+    image: /img/tiltbrush.jpg
+  image7:
+    alt: tvori
+    image: /img/tvori.png
+  image8:
+    alt: blocksico
+    image: /img/blocks_ico.jpg
 additionalImages:
-    image1:
-        image: /img/GravitySketch_betatester.jpg
-        alt: GravitySketch_betatester
-    image2:
-        image: /img/oculus_official_start_member.jpg
-        alt: oculus_official_start_member 
+  image1:
+    alt: GravitySketch_betatester
+    image: /img/GravitySketch_betatester.jpg
+  image2:
+    alt: oculus_official_start_member
+    image: /img/oculus_official_start_member.jpg
 ---
-
 
