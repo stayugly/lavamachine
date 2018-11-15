@@ -9,9 +9,8 @@ welcomeBlurb:
     and know that it is extremely easy to learn.
 
 
-    If you have enough of the theory and just want to get started, then visit us
-    at our hands-on booth. True to the motto learning by doing, we want to take
-    you to the various methods of virtual illustration by the hand.
+    Just like the motto learning by doing, we want to take you to the various
+    methods of virtual illustration.
 imageAndImage:
   imagelefturl: /img/dsc06792_cropped.jpg
   imagerighturl: /img/dsc06756b_cropped.jpg
@@ -36,6 +35,6 @@ textAndTextAndText:
     buttontext: Contact us
     heading: YOU CAN BOOK US
     image: /img/lavamachine_icon_02-02.png
-    text: VR-Workshop required? Contact us and we arrange an detached appointment.
+    text: VR-Workshop required? Contact us and we arrange an appointment.
 ---
 
