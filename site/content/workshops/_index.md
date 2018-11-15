@@ -6,7 +6,7 @@ welcomeBlurb:
   text: >
     We arrived in the future. A new profession has emerged: the VR artist. As
     established 3D animation filmmakers, we have studied the topic intensively
-    and know that it is extremely easy to learn.
+    and know that it is extremely enjoyable to learn.
 
 
     Just like the motto learning by doing, we want to show various methods of
