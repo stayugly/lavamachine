@@ -3,15 +3,20 @@ title: VR Live Painting
 image: /img/greenscreen-highres4kpic.jpg
 welcomeBlurb:
   heading: Refresh your Audience
-  text: "We paint live on a big screen for events like author \nreadings, concerts, theatres and festivals. \x03VR Live painting will massivly intensify your main act in perfect symbiose. Give your audience a refreshing \nand unforgettable experience."
+  text: >-
+    We will paint live on a big screen for events like author 
+
+    readings, concerts, theatres and festivals. VR Live Painting will massivly
+    intensify your main act in a perfect symbiose. Give your audience a
+    refreshing and unforgettable experience.
 videoList:
   video1:
     headline: Author Reading – “Discworld”
     reverse: true
     text: >
-      My interpretation of the Rincewind character from the famous Discworld
-      series. The painting is made during the reading of a book scene in virtual
-      reality and imminently projected on the wall in the background. What you
+      My interpretation of the "Rincewind character" from the famous Discworld
+      series. The painting is made during the reading of a book scene in Virtual
+      Reality and imminently projected on the wall in the background. What you
       will see is what I can see in the headset in real-time!
     vimeonummer: '293225658'
   video10:
@@ -21,9 +26,9 @@ videoList:
     reverse: false
     text: >
       Interpretion of the two main characters of the classic Novel Life of Pi.
-      They are surounded by rocks and a whale which is not particular a certain
-      part of a the novel,but it gives the scene more drama. This painting is
-      completely made in Google Tilt Brush.
+      They are surrounded by rocks and a whales which is not particular a
+      certain part of a the novel, but it gives the scene more drama. This
+      painting is completely made in Google Tilt Brush.
     vimeonummer: '296202509'
   video3:
     headline: Life Painting – “Fire Golem” (Time Lapse)
