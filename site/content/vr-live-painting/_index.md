@@ -16,7 +16,7 @@ videoList:
     text: >
       My interpretation of the "Rincewind character" from the famous Discworld
       series. The painting is made during the reading of a book scene in Virtual
-      Reality and imminently projected on the wall in the background. What you
+      Reality and immediately projected on the wall in the background. What you
       will see is what I can see in the headset in real-time!
     vimeonummer: '293225658'
   video10:
