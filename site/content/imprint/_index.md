@@ -25,11 +25,6 @@ content: >-
   Umsatzsteuer-IdNr.: DE317305919<br><br>
 
 
-  <a class="link primary underline"
-  href="https://www.lavamachine.com/img/agb_lavamachine.pdf">Allgemeine
-  Geschäftsbedingungen</a><br><br>
-
-
   © all rights reserved - Alle Texte, Bilder und Grafiken unterliegen dem
   Urheberrecht und dürfen nicht ohne vorherige schriftliche Genehmigung
   veröffentlicht werden. <br><br>
