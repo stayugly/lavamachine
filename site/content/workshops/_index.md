@@ -12,8 +12,8 @@ welcomeBlurb:
     During a one day workshop we want to show you the various techniques and
     methodes of virtual painting and animation.
 imageAndImage:
-  imagelefturl: /img/dsc06792_cropped.jpg
-  imagerighturl: /img/dsc06756b_cropped.jpg
+  imagelefturl: ''
+  imagerighturl: /img/dsc06756c.jpg
 headlineBig:
   headline: Upcoming events in 2019
 textAndTextAndText:
