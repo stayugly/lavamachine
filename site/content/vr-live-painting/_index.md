@@ -10,7 +10,7 @@ welcomeBlurb:
     intensify your main act in a perfect symbiose...
 
 
-    Bored of powerpoint presentations? We als do "Grafic Recording in VR" for
+    Bored of powerpoint presentations? We als do "Grafic Recordings in VR" for
     meetings, which still is very unique at the moment,  but will become the
     state of art very soon. Give your audience a refreshing and unforgettable
     experience! Contact us.
