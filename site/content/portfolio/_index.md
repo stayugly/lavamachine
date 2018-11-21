@@ -6,8 +6,8 @@ videoSpecial:
   reverse: false
   text: >-
     My Workingspace. Entirely made in Virtual Reality. I used a spherical
-    picture of my room as reference background and painted everything in VR onto
-    it.
+    picture of my room as reference background and painted everything onto it in
+    VR.
 videoList:
   video1:
     headline: Time Machine
