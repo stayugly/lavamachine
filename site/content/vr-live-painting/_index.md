@@ -7,13 +7,13 @@ welcomeBlurb:
     We will paint live on a big screen for events like author 
 
     readings, concerts, theatres and festivals. VR Live Painting will massivly
-    intensify your main act in a perfect symbiose...
+    intensify your main act in a perfect symbiose. ---
 
 
-    Bored of powerpoint presentations? We als do "Grafic Recordings in VR" for
-    meetings, which still is very unique at the moment,  but will become the
-    state of art very soon. Give your audience a refreshing and unforgettable
-    experience! Contact us.
+    Powerpoint presentation are from yesterday. Flipcharts boring.  We do
+    "Grafic Recordings in VR"! This still is very unique at the moment,  but
+    will become the state of art very soon. Give your audience a refreshing and
+    unforgettable experience! Contact us.
 videoList:
   video1:
     headline: Author Reading – “Discworld”
