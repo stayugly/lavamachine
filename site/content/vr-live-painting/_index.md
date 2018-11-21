@@ -1,5 +1,5 @@
 ---
-title: VR Live Painting
+title: VR Live Painting / Graphic Recording
 image: /img/greenscreen-highres4kpic.jpg
 welcomeBlurb:
   heading: Refresh your Audience
@@ -7,8 +7,13 @@ welcomeBlurb:
     We will paint live on a big screen for events like author 
 
     readings, concerts, theatres and festivals. VR Live Painting will massivly
-    intensify your main act in a perfect symbiose. Give your audience a
-    refreshing and unforgettable experience.
+    intensify your main act in a perfect symbiose.
+
+
+    Boring Powerpoint Presentations: We als do "Grafic Recording in VR" for
+    meetings, which still is very unique at the moment,  but will become the
+    state of art very soon. Give your audience a refreshing and unforgettable
+    experience! Contact us.
 videoList:
   video1:
     headline: Author Reading – “Discworld”
