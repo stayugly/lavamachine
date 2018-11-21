@@ -28,7 +28,7 @@ textAndTextAndText:
     buttonUrl: 'https://www.lavamachine.com/contact/'
     buttontext: Contact us
     heading: VR-Workshop
-    image: /img/Lavamachine_Icon_02-02.svg
+    image: /img/lavamachine_icon_02-02.png
     text: >-
       VR-Workshop required? A half-day introductory course for people without
       prior knowledge who want to get their first steps into VR. Contact us and
