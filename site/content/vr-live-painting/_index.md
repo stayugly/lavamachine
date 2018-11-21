@@ -25,10 +25,9 @@ videoList:
     headline: Life Painting – "Life of Pi" Interpretation
     reverse: false
     text: >
-      Interpretion of the two main characters of the classic Novel Life of Pi.
-      They are surrounded by rocks and a whales which is not particular a
-      certain part of a the novel, but it gives the scene more drama. This
-      painting is completely made in Google Tilt Brush.
+      Interpretion of the two main characters of the classic Novel Life of Pi
+      surrounded by the stormy sea. This painting is completely made in Google
+      Tilt Brush.
     vimeonummer: '296202509'
   video3:
     headline: Life Painting – “Fire Golem” (Time Lapse)
