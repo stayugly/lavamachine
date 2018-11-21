@@ -10,7 +10,7 @@ welcomeBlurb:
     intensify your main act in a perfect symbiose. ---
 
 
-    Powerpoint presentation are from yesterday. Flipcharts boring.  We do
+    Powerpoint presentations are from yesterday. Flipcharts boring.  We do
     "Grafic Recordings in VR"! This still is very unique at the moment,  but
     will become the state of art very soon. Give your audience a refreshing and
     unforgettable experience! Contact us.
