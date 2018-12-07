@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: /img/About-us-jumbotron-small.jpeg
+image: /img/about_icons_background.jpg
 welcomeBlurb:
   heading: “Story is King”
   text: >-
