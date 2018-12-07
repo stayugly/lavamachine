@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-image: /img/Portfolio-jumbotron-small.jpeg
+image: /img/portfolio_background.jpg
 videoSpecial:
   headline: Atelier
   reverse: false
