@@ -26,9 +26,16 @@ videoList:
       short infographic in Virtual Reality about “Cochlear Implants”.
     vimeonummer: '273708263'
   video3:
-    headline: ''
-    reverse: false
-    text: ''
+    headline: Moby Dick
+    reverse: true
+    text: >-
+      Together we created this cool VR artwork during our workshop and authors
+      reading of "Moby Dick" at the CologneDigital. The audience was stunned by
+      this new experience. 
+
+      Staff Picked by the Sketchfab Team here:
+
+      https://skfb.ly/6DAWx
     vimeonummer: .nan
 ---
 
