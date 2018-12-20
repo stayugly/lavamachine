@@ -37,5 +37,8 @@ videoList:
 
       https://skfb.ly/6DAWx
     vimeonummer: 305039678
+  video4:
+    headline: Quotes
+    text: "\n„Awesome, You created the mood of this scene very well! It resembles traveling through a painting.”\n\n“ Awesome! Imagine kids experiencing stories like this in school \U0001F929 “\n\n“ That is so damn beautiful:o “\n\n“ I would have no idea how to ever make anything like this - VR completely blows my mind, and I can’t wait to see what the future of it looks like! “\n\n“ You guys are next level ;) “\n\n“ Master of spatial storytelling, beyond just beautiful brush painting! “\n\n“ Level of mastery i can't comprehend. “\n"
 ---
 
