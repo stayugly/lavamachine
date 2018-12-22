@@ -1,7 +1,7 @@
 ---
 heading: Imprint
 content: >-
-  Lavamachine<br>
+  LAVAMACHINE<br>
 
 
   Piers Goffart <br>
