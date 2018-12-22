@@ -25,19 +25,21 @@ content: >-
   Umsatzsteuer-IdNr.: DE317305919<br><br>
 
 
-  © all rights reserved - Alle Texte, Bilder und Grafiken unterliegen dem
-  Urheberrecht und dürfen nicht ohne vorherige schriftliche Genehmigung
-  veröffentlicht werden. <br><br>
+  © all rights reserved - All texts, pictures and graphics are subject to
+  copyright and may not be published without prior written permission.
+
+  <br><br>
 
 
   Europäische Online-Streitbeilegungs-Plattform: <br>
 
 
-  Seit dem 15. Februar 2016 stellt die EU-Kommission eine Plattform für
-  außergerichtliche Streitschlichtung bereit. Als Verbraucher gibt dies die
-  Möglichkeit, Streitigkeiten im Zusammenhang mit der Online-Bestellung zunächst
-  ohne die Einschaltung eines Gerichts zu klären. Die Streitbeilegungs-Plattform
-  erreichen Sie über den folgenden Link:
-  https://ec.europa.eu/consumers/odr/main/index.cfm
+  European online dispute resolution platform:
+
+  Since 15 February 2016, the EU Commission has provided a platform for
+  out-of-court settlement. As a consumer, this gives the opportunity to settle
+  disputes in connection with the online order initially without the involvement
+  of a court. The dispute resolution platform can be reached via the following
+  link: https://ec.europa.eu/consumers/odr/main/index.cfm
 ---
 
