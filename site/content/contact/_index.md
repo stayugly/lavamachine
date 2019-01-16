@@ -1,6 +1,6 @@
 ---
 title: Contact
-image: /img/untitled_4_01.jpg
+image: /img/tiltbrush.jpg
 contactData:
   city: Hamburg
   country: Germany
