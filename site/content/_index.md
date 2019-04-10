@@ -16,13 +16,13 @@ headlineBig:
 textAndTextAndText:
   images_are_small: true
   item1:
-    buttonUrl: 'https://www.lavamachine.com/portfolio/'
+    buttonUrl: 'https://www.lavamachine.netlify.com/portfolio/'
     buttontext: Visit Portfolio
     heading: VR Films
     image: /img/Lavamachine_Icon_01-01.svg
     text: You need a VR infographic or an animated short? Checkout our portfolio.
   item2:
-    buttonUrl: 'https://www.lavamachine.com/workshops/'
+    buttonUrl: 'https://www.lavamachine.netlify.com/workshops/'
     buttontext: Visit VR Workshops
     heading: VR Workshops
     image: /img/Lavamachine_Icon_02-02.svg
@@ -30,7 +30,7 @@ textAndTextAndText:
       We offer workshops for groups of up to ten people. Participants learn to
       use the Rift and different VR painting tools.
   item3:
-    buttonUrl: 'https://www.lavamachine.com/vr-live-painting/'
+    buttonUrl: 'https://www.lavamachine.netlify.com/vr-live-painting/'
     buttontext: Visit Live Painting
     heading: VR Live Painting
     image: /img/Lavamachine_Icon_03-03.svg
